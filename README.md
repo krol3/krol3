@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📫 How to reach me:
+- By [Twitter: @krol_valencia](https://twitter.com/krol_valencia)
+- By [Linkedin](https://www.linkedin.com/in/carolgv/)
