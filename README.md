@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Carol Valencia, a Software Engineer 🚀 from Brazil. Beside's programming, I enjoy running and traveling.
+
+- 🔭 I’m currently working on Security in Cloud-native
+- 👯 I’m looking to collaborate with other developers in community
+- 💬 Ask me about: Container, kubernetes, security
+
 📫 How to reach me:
 - By [Twitter: @krol_valencia](https://twitter.com/krol_valencia)
 - By [Linkedin](https://www.linkedin.com/in/carolgv/)
