@@ -25,3 +25,5 @@ Hi, I'm Carol Valencia, a Software Engineer 🚀 from Brazil. Beside's programmi
 - By [Linkedin](https://www.linkedin.com/in/carolgv/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+![krol's github stats](https://github-readme-stats.vercel.app/api?username=krol3&hide=issues&show_icons=true)
