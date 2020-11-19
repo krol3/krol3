@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 📫 How to reach me:
 - By [Twitter: @krol_valencia](https://twitter.com/krol_valencia)
 - By [Linkedin](https://www.linkedin.com/in/carolgv/)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
