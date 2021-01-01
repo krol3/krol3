@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Carol Valencia, a Software Engineer 🚀 from Brazil. Beside's programming, I enjoy running and traveling.
+Hi, I'm Carol Valencia, a Software Developer 🚀 from Brazil. Beside's programming, I enjoy running and traveling.
 
 - 🔭 I’m currently working on Security in Cloud-native
 - 👯 I’m looking to collaborate with other developers in community
