@@ -19,6 +19,7 @@ Hi, I'm [Carol Valencia](https://www.linkedin.com/in/carolgv/), a Software Devel
 ### 😄 Talking about Personal Stuffs
 
 - 🔭 I’m currently working on Security in Cloud-native
+- 🌱 I co-organize several communities in Brazil like Docker-SaoPaulo, Hashicorp-SaoPaulo, CyberSecurityGirls-Brazil
 - 👯 I’m looking to collaborate with other developers in community
 - 💬 Ask me about: Container, kubernetes, security
 - 🥅 Goals: Contribute more to Open Source projects
