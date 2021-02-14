@@ -44,6 +44,11 @@ Hi, I'm [Carol Valencia](https://www.linkedin.com/in/carolgv/), a Software Devel
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#90](https://github.com/aquasecurity/postee/pull/90) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
+2. 🎉 Merged PR [#1](https://github.com/aquasecurity/helm-charts/pull/1) in [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts)
+3. 💪 Opened PR [#1](https://github.com/aquasecurity/helm-charts/pull/1) in [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts)
+4. 💪 Opened PR [#89](https://github.com/aquasecurity/postee/pull/89) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
+5. 🎉 Merged PR [#1](https://github.com/krolval/postee/pull/1) in [krolval/postee](https://github.com/krolval/postee)
 <!--END_SECTION:activity-->
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me
