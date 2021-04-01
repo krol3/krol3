@@ -54,11 +54,11 @@ I'm [Carol Valencia](https://www.linkedin.com/in/carolgv/), a Software Developer
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26719](https://github.com/kubernetes/website/pull/26719) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#396](https://github.com/aquasecurity/starboard/issues/396) in [aquasecurity/starboard](https://github.com/aquasecurity/starboard)
-3. 💪 Opened PR [#407](https://github.com/aquasecurity/starboard/pull/407) in [aquasecurity/starboard](https://github.com/aquasecurity/starboard)
-4. 💪 Opened PR [#170](https://github.com/replicatedhq/dockerfilelint/pull/170) in [replicatedhq/dockerfilelint](https://github.com/replicatedhq/dockerfilelint)
-5. 💪 Opened PR [#1](https://github.com/krol3/java-docker/pull/1) in [krol3/java-docker](https://github.com/krol3/java-docker)
+1. ❗️ Closed issue [#71](https://github.com/aquasecurity/postee/issues/71) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
+2. 🗣 Commented on [#71](https://github.com/aquasecurity/postee/issues/71) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
+3. 🗣 Commented on [#531](https://github.com/aquasecurity/trivy/issues/531) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+4. 🗣 Commented on [#531](https://github.com/aquasecurity/trivy/issues/531) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+5. 🗣 Commented on [#27241](https://github.com/kubernetes/website/issues/27241) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
 
