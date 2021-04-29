@@ -1,6 +1,6 @@
 ### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Carol Valencia</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=krol3.krol3)
 
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me
