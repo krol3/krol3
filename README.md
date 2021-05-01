@@ -54,11 +54,11 @@ I'm [Carol Valencia](https://www.linkedin.com/in/carolgv/), a Software Developer
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#71](https://github.com/aquasecurity/postee/issues/71) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
-2. 🗣 Commented on [#71](https://github.com/aquasecurity/postee/issues/71) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
-3. 🗣 Commented on [#531](https://github.com/aquasecurity/trivy/issues/531) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-4. 🗣 Commented on [#531](https://github.com/aquasecurity/trivy/issues/531) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-5. 🗣 Commented on [#27241](https://github.com/kubernetes/website/issues/27241) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#543](https://github.com/aquasecurity/starboard/issues/543) in [aquasecurity/starboard](https://github.com/aquasecurity/starboard)
+2. 🗣 Commented on [#680](https://github.com/aquasecurity/tracee/issues/680) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
+3. 🗣 Commented on [#576](https://github.com/cncf/sig-security/issues/576) in [cncf/sig-security](https://github.com/cncf/sig-security)
+4. 🗣 Commented on [#560](https://github.com/aquasecurity/tracee/issues/560) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
+5. ❌ Closed PR [#95090](https://github.com/kubernetes/kubernetes/pull/95090) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
 
 
