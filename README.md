@@ -54,11 +54,11 @@ I'm [Carol Valencia](https://www.linkedin.com/in/carolgv/), a Software Developer
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1033](https://github.com/aquasecurity/trivy/pull/1033) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-2. 💪 Opened PR [#137](https://github.com/aquasecurity/postee/pull/137) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
-3. 🗣 Commented on [#130](https://github.com/aquasecurity/postee/issues/130) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
-4. 🗣 Commented on [#539](https://github.com/aquasecurity/starboard/issues/539) in [aquasecurity/starboard](https://github.com/aquasecurity/starboard)
-5. 🗣 Commented on [#479](https://github.com/aquasecurity/trivy/issues/479) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+1. 🗣 Commented on [#576](https://github.com/cncf/tag-security/issues/576) in [cncf/tag-security](https://github.com/cncf/tag-security)
+2. 🗣 Commented on [#745](https://github.com/aquasecurity/tracee/issues/745) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
+3. 💪 Opened PR [#8](https://github.com/krol3/starboard/pull/8) in [krol3/starboard](https://github.com/krol3/starboard)
+4. 💪 Opened PR [#233](https://github.com/aquasecurity/deployments/pull/233) in [aquasecurity/deployments](https://github.com/aquasecurity/deployments)
+5. ❗️ Opened issue [#123](https://github.com/awslabs/aws-lambda-cpp/issues/123) in [awslabs/aws-lambda-cpp](https://github.com/awslabs/aws-lambda-cpp)
 <!--END_SECTION:activity-->
 
 
