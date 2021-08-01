@@ -54,11 +54,11 @@ I'm [Carol Valencia](https://www.linkedin.com/in/carolgv/), a Software Developer
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#576](https://github.com/cncf/tag-security/issues/576) in [cncf/tag-security](https://github.com/cncf/tag-security)
-2. 🗣 Commented on [#745](https://github.com/aquasecurity/tracee/issues/745) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
-3. 💪 Opened PR [#8](https://github.com/krol3/starboard/pull/8) in [krol3/starboard](https://github.com/krol3/starboard)
-4. 💪 Opened PR [#233](https://github.com/aquasecurity/deployments/pull/233) in [aquasecurity/deployments](https://github.com/aquasecurity/deployments)
-5. ❗️ Opened issue [#123](https://github.com/awslabs/aws-lambda-cpp/issues/123) in [awslabs/aws-lambda-cpp](https://github.com/awslabs/aws-lambda-cpp)
+1. 💪 Opened PR [#151](https://github.com/aquasecurity/postee/pull/151) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
+2. 🎉 Merged PR [#1](https://github.com/aquasecurity/csp-integration-samples/pull/1) in [aquasecurity/csp-integration-samples](https://github.com/aquasecurity/csp-integration-samples)
+3. 💪 Opened PR [#1](https://github.com/aquasecurity/csp-integration-samples/pull/1) in [aquasecurity/csp-integration-samples](https://github.com/aquasecurity/csp-integration-samples)
+4. 💪 Opened PR [#10](https://github.com/krol3/starboard/pull/10) in [krol3/starboard](https://github.com/krol3/starboard)
+5. 🎉 Merged PR [#9](https://github.com/krol3/starboard/pull/9) in [krol3/starboard](https://github.com/krol3/starboard)
 <!--END_SECTION:activity-->
 
 
