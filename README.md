@@ -1,4 +1,11 @@
-### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Carol Valencia</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">
+    Hi there, 
+    <img src="https://raw.githubusercontent.com/krol3/krol3/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+  I'm <a href="https://www.linkedin.com/in/carolgv/" target="_blank">Carol Valencia!</a>
+</h1>
 
 ### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=krol3.krol3)
 
