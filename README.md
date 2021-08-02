@@ -23,7 +23,8 @@ Glad to see you here!
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/krol3/krol3/issues/new"><b>here</b></a><br>
-or <a href="mailto:krolroot@outlook.com"><b>email</b></a> me.
+or <a href="mailto:krolroot@outlook.com"><b>email</b></a> me <br>
+or Let's have a call ☎️, feel free to pick a slot on <a href="https://calendly.com/krol/meeting">Calendly</a> to talk with me...
 
 <i>Happy Coding!</i> 😺
 
