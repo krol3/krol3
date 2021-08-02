@@ -6,16 +6,36 @@
          width="45" />
   I'm <a href="https://www.linkedin.com/in/carolgv/" target="_blank">Carol Valencia!</a>
 </h1>
+<h3 align="center">
+I'm <a href="https://www.linkedin.com/in/carolgv/"> <b>Carol Valencia</b> </a>, a Software Developer 🚀 in Brazil 😺
+</h3>
 
-### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=krol3.krol3)
+<h3 align="center">
+Glad to see you here! 
+    <img src="https://visitor-badge.glitch.me/badge?page_id=krol3.krol3" 
+         alt="Waving hand animated gif"
+         height="20"
+         width="90" />
+</h3>
 
+<div align="center">
+    
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/krol3/krol3/issues/new"><b>here</b></a><br>
+or <a href="mailto:krolroot@outlook.com"><b>email</b></a> me.
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me
+<i>Happy Coding!</i> 😺
 
+</div>
+
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 🙃
+<div align="center">
 <a href="https://linkedin.com/in/carolgv" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="carolgv" /></a>
-<a href="https://twitter.com/krol_valencia" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="carolgv" /></a>
 <a href="https://krol3.medium.com" target="blank"><img align="center" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="@krol3" /></a>
+<a href="https://twitter.com/krol_valencia" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="carolgv" /></a>
 <a href="https://dev.to/krol_valencia" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="krol_valencia" /></a>
+</div>
 
 <!--
 **krol3/krol3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,12 +46,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about .... Beside programming, I like running, beach-tennis, traveling and cats
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm [Carol Valencia](https://www.linkedin.com/in/carolgv/), a Software Developer 🚀 from Brazil. Beside's programming, I enjoy running, beach-tennis and traveling.
+</br>
+</br>
 
 ### 😄 Talking about Personal Stuffs
 
@@ -55,8 +76,8 @@ I'm [Carol Valencia](https://www.linkedin.com/in/carolgv/), a Software Developer
 
 ### :octocat: Github Statistics
 <p align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=krol3&show_icons=true&theme=tokyonight" alt="krol3" width="480" height="180" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=krol3&exclude_repo=neural-network-bike,docker-samples-by-lang&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" alt="krol3"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=krol3&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&exclude_repo=neural-network-bike,docker-samples-by-lang&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="krol3" width="480" height="180" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=krol3&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=neural-network-bike,docker-samples-by-lang&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="krol3"/>
 </p>
 
 ### :zap: Recent Activity
