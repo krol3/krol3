@@ -85,11 +85,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#166](https://github.com/aquasecurity/postee/pull/166) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
-2. 💪 Opened PR [#165](https://github.com/aquasecurity/postee/pull/165) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
-3. 💪 Opened PR [#4](https://github.com/krol3/infra-code-tf/pull/4) in [krol3/infra-code-tf](https://github.com/krol3/infra-code-tf)
-4. ❗️ Opened issue [#943](https://github.com/aquasecurity/tracee/issues/943) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
-5. 🎉 Merged PR [#2](https://github.com/aquasecurity/csp-integration-samples/pull/2) in [aquasecurity/csp-integration-samples](https://github.com/aquasecurity/csp-integration-samples)
+1. 🎉 Merged PR [#5](https://github.com/aquasecurity/csp-integration-samples/pull/5) in [aquasecurity/csp-integration-samples](https://github.com/aquasecurity/csp-integration-samples)
+2. 💪 Opened PR [#5](https://github.com/aquasecurity/csp-integration-samples/pull/5) in [aquasecurity/csp-integration-samples](https://github.com/aquasecurity/csp-integration-samples)
+3. 💪 Opened PR [#2](https://github.com/krol3/csp-integration-samples/pull/2) in [krol3/csp-integration-samples](https://github.com/krol3/csp-integration-samples)
+4. 🎉 Merged PR [#1](https://github.com/krol3/csp-integration-samples/pull/1) in [krol3/csp-integration-samples](https://github.com/krol3/csp-integration-samples)
+5. 💪 Opened PR [#1](https://github.com/krol3/csp-integration-samples/pull/1) in [krol3/csp-integration-samples](https://github.com/krol3/csp-integration-samples)
 <!--END_SECTION:activity-->
 
 
