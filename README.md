@@ -85,11 +85,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#128](https://github.com/aquasecurity/appshield/issues/128) in [aquasecurity/appshield](https://github.com/aquasecurity/appshield)
-2. ❗️ Closed issue [#1339](https://github.com/aquasecurity/trivy/issues/1339) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-3. ❗️ Opened issue [#1339](https://github.com/aquasecurity/trivy/issues/1339) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-4. 💪 Opened PR [#7](https://github.com/krol3/infra-code-tf/pull/7) in [krol3/infra-code-tf](https://github.com/krol3/infra-code-tf)
-5. 🎉 Merged PR [#6](https://github.com/krol3/infra-code-tf/pull/6) in [krol3/infra-code-tf](https://github.com/krol3/infra-code-tf)
+1. 🗣 Commented on [#203](https://github.com/aquasecurity/postee/issues/203) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
+2. 🗣 Commented on [#576](https://github.com/cncf/tag-security/issues/576) in [cncf/tag-security](https://github.com/cncf/tag-security)
+3. ❗️ Opened issue [#1419](https://github.com/aquasecurity/trivy/issues/1419) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+4. 🗣 Commented on [#82](https://github.com/aquasecurity/trivy-action/issues/82) in [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action)
+5. 🎉 Merged PR [#1](https://github.com/krol3/trivy-action/pull/1) in [krol3/trivy-action](https://github.com/krol3/trivy-action)
 <!--END_SECTION:activity-->
 
 
