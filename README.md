@@ -85,11 +85,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#89](https://github.com/aquasecurity/trivy-action/pull/89) in [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action)
-2. 🗣 Commented on [#1297](https://github.com/aquasecurity/trivy/issues/1297) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-3. 🗣 Commented on [#1266](https://github.com/aquasecurity/trivy/issues/1266) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-4. 🗣 Commented on [#1314](https://github.com/aquasecurity/tracee/issues/1314) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
-5. 💪 Opened PR [#227](https://github.com/aquasecurity/postee/pull/227) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
+1. 🎉 Merged PR [#5](https://github.com/krol3/demo-trivy/pull/5) in [krol3/demo-trivy](https://github.com/krol3/demo-trivy)
+2. 💪 Opened PR [#5](https://github.com/krol3/demo-trivy/pull/5) in [krol3/demo-trivy](https://github.com/krol3/demo-trivy)
+3. 🗣 Commented on [#278](https://github.com/aquasecurity/starboard/issues/278) in [aquasecurity/starboard](https://github.com/aquasecurity/starboard)
+4. 🗣 Commented on [#1629](https://github.com/aquasecurity/trivy/issues/1629) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+5. 🗣 Commented on [#1629](https://github.com/aquasecurity/trivy/issues/1629) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
 <!--END_SECTION:activity-->
 
 
