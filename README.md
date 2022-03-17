@@ -1,13 +1,16 @@
+<p align="center">
+  <img src="./img/cat-developer.gif" height="280dp" width="320dp">
+</p>
 <h1 align="center">
     Hi there, 
-    <img src="https://raw.githubusercontent.com/krol3/krol3/master/wave.gif" 
+    <img src="./img/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />
   I'm <a href="https://www.linkedin.com/in/carolgv/" target="_blank">Carol Valencia!</a>
 </h1>
 <h3 align="center">
-I'm <a href="https://www.linkedin.com/in/carolgv/"> <b>Carol Valencia</b> </a>, a Software Developer 🚀 in Brazil 😺
+A Software Developer 🚀 from Brazil 😺
 </h3>
 
 <h3 align="center">
