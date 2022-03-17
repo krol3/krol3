@@ -14,6 +14,10 @@ A Software Developer 🚀 from Brazil 😺
 </h3>
 
 <h3 align="center">
+<img src="./img/cat-run.gif" 
+         alt="Waving hand animated gif"
+         height="40"
+         width="40" />
 Glad to see you here! 
     <img src="https://visitor-badge.glitch.me/badge?page_id=krol3.krol3" 
          alt="Waving hand animated gif"
