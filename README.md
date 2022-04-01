@@ -92,11 +92,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1717](https://github.com/aquasecurity/trivy/issues/1717) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-2. ❗️ Closed issue [#1717](https://github.com/aquasecurity/trivy/issues/1717) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-3. 🗣 Commented on [#1315](https://github.com/aquasecurity/trivy/issues/1315) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-4. 🗣 Commented on [#1164](https://github.com/aquasecurity/trivy/issues/1164) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-5. 🗣 Commented on [#1728](https://github.com/aquasecurity/trivy/issues/1728) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+1. 🗣 Commented on [#1061](https://github.com/aquasecurity/starboard/issues/1061) in [aquasecurity/starboard](https://github.com/aquasecurity/starboard)
+2. 🗣 Commented on [#657](https://github.com/cncf/glossary/issues/657) in [cncf/glossary](https://github.com/cncf/glossary)
+3. ❗️ Opened issue [#6](https://github.com/krolval/helm-charts/issues/6) in [krolval/helm-charts](https://github.com/krolval/helm-charts)
+4. ❗️ Opened issue [#1](https://github.com/krol3/krol3/issues/1) in [krol3/krol3](https://github.com/krol3/krol3)
+5. 💪 Opened PR [#27](https://github.com/krolval/postee/pull/27) in [krolval/postee](https://github.com/krolval/postee)
 <!--END_SECTION:activity-->
 
 
