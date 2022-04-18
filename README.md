@@ -84,7 +84,10 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:END -->
 
+![Metrics](https://github.com/krol3/krol3/blob/master/github-metrics.svg)
+
 ### :octocat: Github Statistics
+
 <p align="left">
 <img  src="https://github-readme-stats.vercel.app/api?username=krol3&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&exclude_repo=neural-network-bike,docker-samples-by-lang&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="krol3" width="480" height="180" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=krol3&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=neural-network-bike,docker-samples-by-lang&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="krol3"/>
