@@ -95,11 +95,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1061](https://github.com/aquasecurity/starboard/issues/1061) in [aquasecurity/starboard](https://github.com/aquasecurity/starboard)
-2. 🗣 Commented on [#657](https://github.com/cncf/glossary/issues/657) in [cncf/glossary](https://github.com/cncf/glossary)
-3. ❗️ Opened issue [#6](https://github.com/krolval/helm-charts/issues/6) in [krolval/helm-charts](https://github.com/krolval/helm-charts)
-4. ❗️ Opened issue [#1](https://github.com/krol3/krol3/issues/1) in [krol3/krol3](https://github.com/krol3/krol3)
-5. 💪 Opened PR [#27](https://github.com/krolval/postee/pull/27) in [krolval/postee](https://github.com/krolval/postee)
+1. 💪 Opened PR [#366](https://github.com/aquasecurity/postee/pull/366) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
+2. 🗣 Commented on [#86](https://github.com/aquasecurity/postee/issues/86) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
+3. 🗣 Commented on [#356](https://github.com/aquasecurity/postee/issues/356) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
+4. ❗️ Closed issue [#6](https://github.com/krolval/helm-charts/issues/6) in [krolval/helm-charts](https://github.com/krolval/helm-charts)
+5. 🗣 Commented on [#102](https://github.com/aquasecurity/trivy-action/issues/102) in [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action)
 <!--END_SECTION:activity-->
 
 
