@@ -95,11 +95,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#366](https://github.com/aquasecurity/postee/pull/366) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
-2. 🗣 Commented on [#86](https://github.com/aquasecurity/postee/issues/86) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
-3. 🗣 Commented on [#356](https://github.com/aquasecurity/postee/issues/356) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
-4. ❗️ Closed issue [#6](https://github.com/krolval/helm-charts/issues/6) in [krolval/helm-charts](https://github.com/krolval/helm-charts)
-5. 🗣 Commented on [#102](https://github.com/aquasecurity/trivy-action/issues/102) in [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action)
+1. 🗣 Commented on [#106](https://github.com/aquasecurity/trivy-action/issues/106) in [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action)
+2. 🗣 Commented on [#106](https://github.com/aquasecurity/trivy-action/issues/106) in [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action)
+3. 💪 Opened PR [#106](https://github.com/aquasecurity/trivy-action/pull/106) in [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action)
+4. 💪 Opened PR [#2046](https://github.com/aquasecurity/trivy/pull/2046) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+5. 🎉 Merged PR [#7](https://github.com/aquasecurity/csp-integration-samples/pull/7) in [aquasecurity/csp-integration-samples](https://github.com/aquasecurity/csp-integration-samples)
 <!--END_SECTION:activity-->
 
 
