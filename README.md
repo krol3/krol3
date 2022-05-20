@@ -95,11 +95,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com/aquasecurity/trivy-action/issues/106) in [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action)
-2. 🗣 Commented on [#3377](https://github.com/kubernetes/org/issues/3377) in [kubernetes/org](https://github.com/kubernetes/org)
-3. 🎉 Merged PR [#830](https://github.com/cncf/glossary/pull/830) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 💪 Opened PR [#372](https://github.com/aquasecurity/postee/pull/372) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
-5. 🗣 Commented on [#106](https://github.com/aquasecurity/trivy-action/issues/106) in [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action)
+1. 💪 Opened PR [#381](https://github.com/aquasecurity/postee/pull/381) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
+2. 🗣 Commented on [#374](https://github.com/aquasecurity/postee/issues/374) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
+3. 🗣 Commented on [#106](https://github.com/aquasecurity/trivy-action/issues/106) in [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action)
+4. 🗣 Commented on [#3377](https://github.com/kubernetes/org/issues/3377) in [kubernetes/org](https://github.com/kubernetes/org)
+5. 🎉 Merged PR [#830](https://github.com/cncf/glossary/pull/830) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
 
 
