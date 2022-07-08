@@ -95,11 +95,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#401](https://github.com/aquasecurity/postee/issues/401) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
-2. ❌ Closed PR [#2384](https://github.com/aquasecurity/trivy/pull/2384) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-3. 🗣 Commented on [#2397](https://github.com/aquasecurity/trivy/issues/2397) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-4. 💪 Opened PR [#2384](https://github.com/aquasecurity/trivy/pull/2384) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-5. 🗣 Commented on [#2345](https://github.com/aquasecurity/trivy/issues/2345) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+1. 🗣 Commented on [#371](https://github.com/slsa-framework/slsa/issues/371) in [slsa-framework/slsa](https://github.com/slsa-framework/slsa)
+2. 🗣 Commented on [#361](https://github.com/kubernetes/enhancements/issues/361) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+3. 🗣 Commented on [#2589](https://github.com/kubernetes/enhancements/issues/2589) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+4. 🗣 Commented on [#1710](https://github.com/kubernetes/enhancements/issues/1710) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+5. 🗣 Commented on [#1491](https://github.com/kubernetes/enhancements/issues/1491) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
 <!--END_SECTION:activity-->
 
 
