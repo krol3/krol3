@@ -95,11 +95,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#371](https://github.com/slsa-framework/slsa/issues/371) in [slsa-framework/slsa](https://github.com/slsa-framework/slsa)
-2. 🗣 Commented on [#361](https://github.com/kubernetes/enhancements/issues/361) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-3. 🗣 Commented on [#2589](https://github.com/kubernetes/enhancements/issues/2589) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-4. 🗣 Commented on [#1710](https://github.com/kubernetes/enhancements/issues/1710) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-5. 🗣 Commented on [#1491](https://github.com/kubernetes/enhancements/issues/1491) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+1. ❗️ Opened issue [#64](https://github.com/aquasecurity/chain-bench/issues/64) in [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench)
+2. 🗣 Commented on [#3107](https://github.com/kubernetes/enhancements/issues/3107) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+3. 🗣 Commented on [#2924](https://github.com/kubernetes/enhancements/issues/2924) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+4. 🗣 Commented on [#2923](https://github.com/kubernetes/enhancements/issues/2923) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+5. 💪 Opened PR [#34966](https://github.com/kubernetes/website/pull/34966) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
 
