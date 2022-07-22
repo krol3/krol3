@@ -95,11 +95,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#64](https://github.com/aquasecurity/chain-bench/issues/64) in [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench)
-2. 🗣 Commented on [#3107](https://github.com/kubernetes/enhancements/issues/3107) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-3. 🗣 Commented on [#2924](https://github.com/kubernetes/enhancements/issues/2924) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-4. 🗣 Commented on [#2923](https://github.com/kubernetes/enhancements/issues/2923) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-5. 💪 Opened PR [#34966](https://github.com/kubernetes/website/pull/34966) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 💪 Opened PR [#3](https://github.com/aws-samples/aws-modernization-with-aqua/pull/3) in [aws-samples/aws-modernization-with-aqua](https://github.com/aws-samples/aws-modernization-with-aqua)
+2. 💪 Opened PR [#145](https://github.com/aquasecurity/trivy-action/pull/145) in [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action)
+3. 🗣 Commented on [#143](https://github.com/aquasecurity/trivy-action/issues/143) in [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action)
+4. 💪 Opened PR [#144](https://github.com/aquasecurity/trivy-action/pull/144) in [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action)
+5. 🗣 Commented on [#141](https://github.com/aquasecurity/trivy-action/issues/141) in [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action)
 <!--END_SECTION:activity-->
 
 
