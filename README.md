@@ -95,11 +95,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1029](https://github.com/cncf/glossary/issues/1029) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 🗣 Commented on [#2589](https://github.com/kubernetes/enhancements/issues/2589) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-3. 🗣 Commented on [#1491](https://github.com/kubernetes/enhancements/issues/1491) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-4. 🗣 Commented on [#596](https://github.com/kubernetes/enhancements/issues/596) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-5. ❌ Closed PR [#144](https://github.com/aquasecurity/trivy-action/pull/144) in [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action)
+1. 🗣 Commented on [#3107](https://github.com/kubernetes/enhancements/issues/3107) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+2. 🗣 Commented on [#35615](https://github.com/kubernetes/website/issues/35615) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 💪 Opened PR [#1](https://github.com/krolval/graphql-vulnerable/pull/1) in [krolval/graphql-vulnerable](https://github.com/krolval/graphql-vulnerable)
+4. 💪 Opened PR [#434](https://github.com/aquasecurity/postee/pull/434) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
+5. 🎉 Merged PR [#1](https://github.com/krol3/helloworld/pull/1) in [krol3/helloworld](https://github.com/krol3/helloworld)
 <!--END_SECTION:activity-->
 
 
