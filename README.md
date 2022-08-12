@@ -80,7 +80,8 @@ Here are some ideas to get you started:
 
 ### :card_index: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Security in KubeCon Europe 2020](https://krol3.medium.com/security-in-kubecon-europe-2020-859f41beb948)
+- [Intro to Fileless Malware in Containers - 2022](https://blog.aquasec.com/intro-to-fileless-malware-in-containers)
+- [Security in KubeCon Europe - 2020](https://krol3.medium.com/security-in-kubecon-europe-2020-859f41beb948)
 
 <!-- BLOG-POST-LIST:END -->
 
