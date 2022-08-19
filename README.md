@@ -96,11 +96,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#437](https://github.com/aquasecurity/postee/pull/437) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
-2. ❗️ Opened issue [#2681](https://github.com/aquasecurity/trivy/issues/2681) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-3. 🗣 Commented on [#35683](https://github.com/kubernetes/website/issues/35683) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#35758](https://github.com/kubernetes/website/issues/35758) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#3107](https://github.com/kubernetes/enhancements/issues/3107) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+1. 🗣 Commented on [#35235](https://github.com/kubernetes/website/issues/35235) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 💪 Opened PR [#36053](https://github.com/kubernetes/website/pull/36053) in [kubernetes/website](https://github.com/kubernetes/website)
+3. ❌ Closed PR [#36049](https://github.com/kubernetes/website/pull/36049) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 💪 Opened PR [#36049](https://github.com/kubernetes/website/pull/36049) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#35667](https://github.com/kubernetes/website/issues/35667) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
 
