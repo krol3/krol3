@@ -96,11 +96,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#450](https://github.com/aquasecurity/postee/pull/450) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
-2. 🗣 Commented on [#36112](https://github.com/kubernetes/website/issues/36112) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#36112](https://github.com/kubernetes/website/issues/36112) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#34940](https://github.com/kubernetes/website/issues/34940) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#63](https://github.com/aquasecurity/chain-bench/issues/63) in [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench)
+1. 🎉 Merged PR [#1](https://github.com/krol3/demo-trivy-postee/pull/1) in [krol3/demo-trivy-postee](https://github.com/krol3/demo-trivy-postee)
+2. 💪 Opened PR [#1](https://github.com/krol3/demo-trivy-postee/pull/1) in [krol3/demo-trivy-postee](https://github.com/krol3/demo-trivy-postee)
+3. 🗣 Commented on [#6](https://github.com/aquasecurity/trivy-plugin-webhook/issues/6) in [aquasecurity/trivy-plugin-webhook](https://github.com/aquasecurity/trivy-plugin-webhook)
+4. 💪 Opened PR [#6](https://github.com/aquasecurity/trivy-plugin-webhook/pull/6) in [aquasecurity/trivy-plugin-webhook](https://github.com/aquasecurity/trivy-plugin-webhook)
+5. 💪 Opened PR [#457](https://github.com/aquasecurity/postee/pull/457) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
 <!--END_SECTION:activity-->
 
 
