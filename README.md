@@ -96,11 +96,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1878](https://github.com/aquasecurity/trivy/issues/1878) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-2. 🗣 Commented on [#2630](https://github.com/aquasecurity/trivy/issues/2630) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-3. 🗣 Commented on [#1266](https://github.com/aquasecurity/trivy/issues/1266) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-4. 🗣 Commented on [#2795](https://github.com/aquasecurity/trivy/issues/2795) in [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-5. 🎉 Merged PR [#1](https://github.com/krol3/demo-trivy-postee/pull/1) in [krol3/demo-trivy-postee](https://github.com/krol3/demo-trivy-postee)
+1. ❗️ Opened issue [#90](https://github.com/aquasecurity/chain-bench/issues/90) in [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench)
+2. 🗣 Commented on [#437](https://github.com/aquasecurity/postee/issues/437) in [aquasecurity/postee](https://github.com/aquasecurity/postee)
+3. ❗️ Opened issue [#89](https://github.com/aquasecurity/chain-bench/issues/89) in [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench)
+4. 🗣 Commented on [#88](https://github.com/aquasecurity/chain-bench/issues/88) in [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench)
+5. ❗️ Opened issue [#88](https://github.com/aquasecurity/chain-bench/issues/88) in [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench)
 <!--END_SECTION:activity-->
 
 
