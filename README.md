@@ -62,11 +62,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </br>
-</br>
+
+### :card_index: Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Intro to Fileless Malware in Containers - 2022](https://blog.aquasec.com/intro-to-fileless-malware-in-containers)
+- [Kubernetes Version 1.25: An Overview - 2022](https://blog.aquasec.com/kubernetes-version-1.25)
+- [Security in KubeCon Europe - 2020](https://krol3.medium.com/security-in-kubecon-europe-2020-859f41beb948)
+<!-- BLOG-POST-LIST:END -->
 
 ### 😄 Talking about Personal Stuffs
 - 🔭 I’m currently working on Security in Cloud-native
-- 🌱 Please ping me to talk about Security
+- 🌱 Please ping me to talk about Security and Linux
 - 👯 I’m looking to collaborate with other developers in community
 - 💬 Ask me about: Container, kubernetes, security
 - 🥅 Goals: Contribute more to Open Source projects
@@ -93,14 +99,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="90" height="90"/> 
 <img src="https://camo.githubusercontent.com/aee47673482ae9337b1a495f7e747d35e55f4a3081e5cd65768e65686f6f2de4/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e706f6c6963796167656e742f6f70656e706f6c6963796167656e742d617232312e737667" alt="opa" width="100" height="100"/> 
 </p>
-
-### :card_index: Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Intro to Fileless Malware in Containers - 2022](https://blog.aquasec.com/intro-to-fileless-malware-in-containers)
-- [Kubernetes Version 1.25: An Overview - 2022](https://blog.aquasec.com/kubernetes-version-1.25)
-- [Security in KubeCon Europe - 2020](https://krol3.medium.com/security-in-kubecon-europe-2020-859f41beb948)
-
-<!-- BLOG-POST-LIST:END -->
 
 ![Metrics](https://github.com/krol3/krol3/blob/master/github-metrics.svg)
 
