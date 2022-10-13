@@ -71,10 +71,10 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ### 😄 Talking about Personal Stuffs
-- 🔭 I’m currently working on Security in Cloud-native
-- 🌱 Please ping me to talk about Security and Linux
+- 🔭 I’m currently working in a company of Security in Cloud-native
+- 🌱 Please ping me to talk about Security, Linux, containers, kubernetes and Supply chain.
 - 👯 I’m looking to collaborate with other developers in community
-- 💬 Ask me about: Container, kubernetes, security
+- 💬 Ask me about: Container, kubernetes, security, supply chain
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ I love to play with new cli tools and technologies.
 
