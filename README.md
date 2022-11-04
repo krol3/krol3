@@ -111,11 +111,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#484](https://github.com/cilium/tetragon/pull/484) in [cilium/tetragon](https://github.com/cilium/tetragon)
-2. 💪 Opened PR [#1](https://github.com/krol3/go-cowsay/pull/1) in [krol3/go-cowsay](https://github.com/krol3/go-cowsay)
-3. 🗣 Commented on [#209](https://github.com/testifysec/witness/issues/209) in [testifysec/witness](https://github.com/testifysec/witness)
-4. 💪 Opened PR [#210](https://github.com/testifysec/witness/pull/210) in [testifysec/witness](https://github.com/testifysec/witness)
-5. 🗣 Commented on [#1](https://github.com/kubernetes/sig-security/issues/1) in [kubernetes/sig-security](https://github.com/kubernetes/sig-security)
+1. 🗣 Commented on [#3386](https://github.com/kubernetes/enhancements/issues/3386) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+2. 🗣 Commented on [#2799](https://github.com/kubernetes/enhancements/issues/2799) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+3. 🗣 Commented on [#1981](https://github.com/kubernetes/enhancements/issues/1981) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+4. 💪 Opened PR [#484](https://github.com/cilium/tetragon/pull/484) in [cilium/tetragon](https://github.com/cilium/tetragon)
+5. 💪 Opened PR [#1](https://github.com/krol3/go-cowsay/pull/1) in [krol3/go-cowsay](https://github.com/krol3/go-cowsay)
 <!--END_SECTION:activity-->
 
 
