@@ -111,11 +111,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3386](https://github.com/kubernetes/enhancements/issues/3386) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-2. 🗣 Commented on [#2799](https://github.com/kubernetes/enhancements/issues/2799) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+1. 🗣 Commented on [#64](https://github.com/aquasecurity/chain-bench/issues/64) in [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench)
+2. 🗣 Commented on [#2133](https://github.com/kubernetes/enhancements/issues/2133) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
 3. 🗣 Commented on [#1981](https://github.com/kubernetes/enhancements/issues/1981) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-4. 💪 Opened PR [#484](https://github.com/cilium/tetragon/pull/484) in [cilium/tetragon](https://github.com/cilium/tetragon)
-5. 💪 Opened PR [#1](https://github.com/krol3/go-cowsay/pull/1) in [krol3/go-cowsay](https://github.com/krol3/go-cowsay)
+4. 🗣 Commented on [#37505](https://github.com/kubernetes/website/issues/37505) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#35896](https://github.com/kubernetes/website/issues/35896) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
 
