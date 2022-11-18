@@ -111,11 +111,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/aquasecurity/chain-bench/issues/64) in [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench)
-2. 🗣 Commented on [#2133](https://github.com/kubernetes/enhancements/issues/2133) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-3. 🗣 Commented on [#1981](https://github.com/kubernetes/enhancements/issues/1981) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-4. 🗣 Commented on [#37505](https://github.com/kubernetes/website/issues/37505) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#35896](https://github.com/kubernetes/website/issues/35896) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#37935](https://github.com/kubernetes/website/issues/37935) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#3333](https://github.com/kubernetes/enhancements/issues/3333) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+3. 🗣 Commented on [#576](https://github.com/cncf/tag-security/issues/576) in [cncf/tag-security](https://github.com/cncf/tag-security)
+4. 🗣 Commented on [#2371](https://github.com/kubernetes/enhancements/issues/2371) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+5. 🗣 Commented on [#3333](https://github.com/kubernetes/enhancements/issues/3333) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
 <!--END_SECTION:activity-->
 
 
