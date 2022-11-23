@@ -10,7 +10,7 @@
   I'm <a href="https://www.linkedin.com/in/carolgv/" target="_blank">Carol Valencia!</a>
 </h1>
 <h3 align="center">
-A Software Developer 🚀 from Brazil 😺
+A techie 🚀 living in Brazil 😺
 </h3>
 
 <h3 align="center">
@@ -24,18 +24,6 @@ Glad to see you here!
          height="20"
          width="90" />
 </h3>
-
-<div align="center">
-    
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/krol3/krol3/issues/new"><b>here</b></a><br>
-or <a href="https://www.linkedin.com/in/carolgv/"><b>linkedin</b></a>  <br>
-or Let's have a call ☎️, feel free to pick a slot on <a href="https://calendly.com/krol/30min">Calendly</a> to talk with me...
-
-<i>Happy Coding!</i> 😺
-
-</div>
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 🙃
 <div align="center">
@@ -72,6 +60,7 @@ Here are some ideas to get you started:
 
 ### 😄 Talking about Personal Stuffs
 - 🔭 I’m currently working in a company of Security in Cloud-native
+- 👯 I’m collaborating in the Kubernetes Project. Release Team 1.25 | 1.26 
 - 🌱 Please ping me to talk about Security, Linux, containers, kubernetes and Supply chain.
 - 👯 I’m looking to collaborate with other developers in community
 - 💬 Ask me about: Container, kubernetes, security, supply chain
@@ -119,4 +108,15 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 
+<div align="center">
+    
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/krol3/krol3/issues/new"><b>here</b></a><br>
+or <a href="https://www.linkedin.com/in/carolgv/"><b>linkedin</b></a>  <br>
+or Let's have a call ☎️, feel free to pick a slot on <a href="https://calendly.com/krol/30min">Calendly</a> to talk with me...
+
+<i>Happy Coding!</i> 😺
+
+</div>
 
