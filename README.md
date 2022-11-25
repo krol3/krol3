@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37935](https://github.com/kubernetes/website/issues/37935) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#3333](https://github.com/kubernetes/enhancements/issues/3333) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-3. 🗣 Commented on [#576](https://github.com/cncf/tag-security/issues/576) in [cncf/tag-security](https://github.com/cncf/tag-security)
-4. 🗣 Commented on [#2371](https://github.com/kubernetes/enhancements/issues/2371) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-5. 🗣 Commented on [#3333](https://github.com/kubernetes/enhancements/issues/3333) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+1. 💪 Opened PR [#2098](https://github.com/kubernetes/sig-release/pull/2098) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+2. 💪 Opened PR [#38052](https://github.com/kubernetes/website/pull/38052) in [kubernetes/website](https://github.com/kubernetes/website)
+3. ❗️ Opened issue [#114](https://github.com/aquasecurity/chain-bench/issues/114) in [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench)
+4. 🗣 Commented on [#3](https://github.com/aquasecurity/chain-bench-action/issues/3) in [aquasecurity/chain-bench-action](https://github.com/aquasecurity/chain-bench-action)
+5. 🗣 Commented on [#1](https://github.com/aquasecurity/chain-bench-action/issues/1) in [aquasecurity/chain-bench-action](https://github.com/aquasecurity/chain-bench-action)
 <!--END_SECTION:activity-->
 
 
