@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2098](https://github.com/kubernetes/sig-release/pull/2098) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-2. 💪 Opened PR [#38052](https://github.com/kubernetes/website/pull/38052) in [kubernetes/website](https://github.com/kubernetes/website)
-3. ❗️ Opened issue [#114](https://github.com/aquasecurity/chain-bench/issues/114) in [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench)
-4. 🗣 Commented on [#3](https://github.com/aquasecurity/chain-bench-action/issues/3) in [aquasecurity/chain-bench-action](https://github.com/aquasecurity/chain-bench-action)
-5. 🗣 Commented on [#1](https://github.com/aquasecurity/chain-bench-action/issues/1) in [aquasecurity/chain-bench-action](https://github.com/aquasecurity/chain-bench-action)
+1. 🗣 Commented on [#37774](https://github.com/kubernetes/website/issues/37774) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#37770](https://github.com/kubernetes/website/issues/37770) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#37770](https://github.com/kubernetes/website/issues/37770) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🗣 Commented on [#37914](https://github.com/kubernetes/website/issues/37914) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#38006](https://github.com/kubernetes/website/issues/38006) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
 
