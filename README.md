@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38345](https://github.com/kubernetes/website/pull/38345) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 💪 Opened PR [#2121](https://github.com/kubernetes/sig-release/pull/2121) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-3. 💪 Opened PR [#38344](https://github.com/kubernetes/website/pull/38344) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 💪 Opened PR [#38340](https://github.com/kubernetes/website/pull/38340) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#38336](https://github.com/kubernetes/website/issues/38336) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#1404](https://github.com/cncf/glossary/issues/1404) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 🗣 Commented on [#1404](https://github.com/cncf/glossary/issues/1404) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 🗣 Commented on [#1029](https://github.com/cncf/glossary/issues/1029) in [cncf/glossary](https://github.com/cncf/glossary)
+4. ❗️ Closed issue [#38317](https://github.com/kubernetes/website/issues/38317) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#38317](https://github.com/kubernetes/website/issues/38317) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
 
