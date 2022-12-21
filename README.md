@@ -21,11 +21,11 @@ A techie 🚀 living in Brazil 😺
 Glad to see you here! 
     <img src="https://visitor-badge.glitch.me/badge?page_id=krol3.krol3" 
          alt="Waving hand animated gif"
-         height="40"
-         width="40" />
+         height="30"
+         width="80" />
 </h3>
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 🙃
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" weight="40" height="40"></img> Connect with me 🙃
 <div align="center">
 <a href="https://linkedin.com/in/carolgv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" alt="Linkedin" /></a>
 <a href="https://twitter.com/krol_valencia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" alt="Twitter" /></a>
