@@ -21,8 +21,8 @@ A techie 🚀 living in Brazil 😺
 Glad to see you here! 
     <img src="https://visitor-badge.glitch.me/badge?page_id=krol3.krol3" 
          alt="Waving hand animated gif"
-         height="20"
-         width="90" />
+         height="40"
+         width="40" />
 </h3>
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 🙃
