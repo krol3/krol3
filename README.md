@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2107](https://github.com/kubernetes/sig-release/issues/2107) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-2. 🗣 Commented on [#1404](https://github.com/cncf/glossary/issues/1404) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 🗣 Commented on [#1404](https://github.com/cncf/glossary/issues/1404) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🗣 Commented on [#1029](https://github.com/cncf/glossary/issues/1029) in [cncf/glossary](https://github.com/cncf/glossary)
-5. ❗️ Closed issue [#38317](https://github.com/kubernetes/website/issues/38317) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#1618](https://github.com/cncf/glossary/issues/1618) in [cncf/glossary](https://github.com/cncf/glossary)
+2. ❗️ Opened issue [#1618](https://github.com/cncf/glossary/issues/1618) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 💪 Opened PR [#38888](https://github.com/kubernetes/website/pull/38888) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🎉 Merged PR [#2](https://github.com/krol3/glossary/pull/2) in [krol3/glossary](https://github.com/krol3/glossary)
+5. 💪 Opened PR [#2](https://github.com/krol3/glossary/pull/2) in [krol3/glossary](https://github.com/krol3/glossary)
 <!--END_SECTION:activity-->
 
 
