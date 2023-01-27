@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1618](https://github.com/cncf/glossary/issues/1618) in [cncf/glossary](https://github.com/cncf/glossary)
-2. ❗️ Opened issue [#1618](https://github.com/cncf/glossary/issues/1618) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 💪 Opened PR [#38888](https://github.com/kubernetes/website/pull/38888) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🎉 Merged PR [#2](https://github.com/krol3/glossary/pull/2) in [krol3/glossary](https://github.com/krol3/glossary)
-5. 💪 Opened PR [#2](https://github.com/krol3/glossary/pull/2) in [krol3/glossary](https://github.com/krol3/glossary)
+1. ❗️ Opened issue [#1667](https://github.com/cncf/glossary/issues/1667) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 💪 Opened PR [#1644](https://github.com/cncf/glossary/pull/1644) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 🗣 Commented on [#1012](https://github.com/cncf/tag-security/issues/1012) in [cncf/tag-security](https://github.com/cncf/tag-security)
+4. 🗣 Commented on [#1612](https://github.com/cncf/glossary/issues/1612) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 💪 Opened PR [#1634](https://github.com/cncf/glossary/pull/1634) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
 
 
