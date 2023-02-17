@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1667](https://github.com/cncf/glossary/issues/1667) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 💪 Opened PR [#1644](https://github.com/cncf/glossary/pull/1644) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 🗣 Commented on [#1012](https://github.com/cncf/tag-security/issues/1012) in [cncf/tag-security](https://github.com/cncf/tag-security)
-4. 🗣 Commented on [#1612](https://github.com/cncf/glossary/issues/1612) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 💪 Opened PR [#1634](https://github.com/cncf/glossary/pull/1634) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🎉 Merged PR [#1701](https://github.com/cncf/glossary/pull/1701) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 🎉 Merged PR [#1638](https://github.com/cncf/glossary/pull/1638) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 💪 Opened PR [#47](https://github.com/owasp-change/owasp-change.github.io/pull/47) in [owasp-change/owasp-change.github.io](https://github.com/owasp-change/owasp-change.github.io)
+4. ❗️ Opened issue [#1667](https://github.com/cncf/glossary/issues/1667) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 💪 Opened PR [#1644](https://github.com/cncf/glossary/pull/1644) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
 
 
