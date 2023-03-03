@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1745](https://github.com/cncf/glossary/issues/1745) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 💪 Opened PR [#1747](https://github.com/cncf/glossary/pull/1747) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 💪 Opened PR [#1745](https://github.com/cncf/glossary/pull/1745) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🎉 Merged PR [#1743](https://github.com/cncf/glossary/pull/1743) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 🎉 Merged PR [#1739](https://github.com/cncf/glossary/pull/1739) in [cncf/glossary](https://github.com/cncf/glossary)
+3. ❗️ Opened issue [#1041](https://github.com/cncf/tag-security/issues/1041) in [cncf/tag-security](https://github.com/cncf/tag-security)
 4. 🗣 Commented on [#1040](https://github.com/cncf/tag-security/issues/1040) in [cncf/tag-security](https://github.com/cncf/tag-security)
-5. 💪 Opened PR [#1040](https://github.com/cncf/tag-security/pull/1040) in [cncf/tag-security](https://github.com/cncf/tag-security)
+5. 🗣 Commented on [#1040](https://github.com/cncf/tag-security/issues/1040) in [cncf/tag-security](https://github.com/cncf/tag-security)
 <!--END_SECTION:activity-->
 
 
