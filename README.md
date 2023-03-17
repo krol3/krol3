@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39824](https://github.com/kubernetes/website/issues/39824) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#39824](https://github.com/kubernetes/website/issues/39824) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#1795](https://github.com/cncf/glossary/issues/1795) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🗣 Commented on [#39780](https://github.com/kubernetes/website/issues/39780) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#39780](https://github.com/kubernetes/website/issues/39780) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#39946](https://github.com/kubernetes/website/issues/39946) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🎉 Merged PR [#1802](https://github.com/cncf/glossary/pull/1802) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 💪 Opened PR [#1806](https://github.com/cncf/glossary/pull/1806) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🗣 Commented on [#1667](https://github.com/cncf/glossary/issues/1667) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🗣 Commented on [#1801](https://github.com/cncf/glossary/issues/1801) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
 
 
