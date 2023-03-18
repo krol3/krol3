@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ### 😄 Talking about Personal Stuffs
-- 🔭 I’m currently working in a company of Security in Cloud-native
+- 📚 I'm currently learning all about IT and Security in Cloud-native
 - 👯 I’m collaborating in the Kubernetes Project. Release Team 1.25 | 1.26 
 - 🌱 Please ping me to talk about Security, Linux, containers, kubernetes and Supply chain.
 - 👯 I’m looking to collaborate with other developers in community
