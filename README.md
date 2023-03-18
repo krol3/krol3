@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/cat-developer.gif" height="280dp" width="320dp">
+  <img src="./img/write.gif" height="280dp" width="320dp">
 </p>
 <h1 align="center">
     Hi there, 
