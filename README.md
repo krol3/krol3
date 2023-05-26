@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13948](https://github.com/kubernetes/website/issues/13948) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#41100](https://github.com/kubernetes/website/issues/41100) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#41016](https://github.com/kubernetes/website/issues/41016) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🎉 Merged PR [#1869](https://github.com/cncf/glossary/pull/1869) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 🗣 Commented on [#4002](https://github.com/kubernetes/enhancements/issues/4002) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+1. 🗣 Commented on [#1454](https://github.com/open-telemetry/community/issues/1454) in [open-telemetry/community](https://github.com/open-telemetry/community)
+2. 🗣 Commented on [#95](https://github.com/cncf/tag-env-sustainability/issues/95) in [cncf/tag-env-sustainability](https://github.com/cncf/tag-env-sustainability)
+3. 🎉 Merged PR [#2051](https://github.com/cncf/glossary/pull/2051) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🗣 Commented on [#576](https://github.com/cncf/tag-security/issues/576) in [cncf/tag-security](https://github.com/cncf/tag-security)
+5. 🗣 Commented on [#13948](https://github.com/kubernetes/website/issues/13948) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
 
