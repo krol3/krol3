@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1454](https://github.com/open-telemetry/community/issues/1454) in [open-telemetry/community](https://github.com/open-telemetry/community)
-2. 🗣 Commented on [#95](https://github.com/cncf/tag-env-sustainability/issues/95) in [cncf/tag-env-sustainability](https://github.com/cncf/tag-env-sustainability)
-3. 🎉 Merged PR [#2051](https://github.com/cncf/glossary/pull/2051) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🗣 Commented on [#576](https://github.com/cncf/tag-security/issues/576) in [cncf/tag-security](https://github.com/cncf/tag-security)
-5. 🗣 Commented on [#13948](https://github.com/kubernetes/website/issues/13948) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🎉 Merged PR [#1](https://github.com/krol3/bookstore-go/pull/1) in [krol3/bookstore-go](https://github.com/krol3/bookstore-go)
+2. 💪 Opened PR [#1](https://github.com/krol3/bookstore-go/pull/1) in [krol3/bookstore-go](https://github.com/krol3/bookstore-go)
+3. 🗣 Commented on [#1454](https://github.com/open-telemetry/community/issues/1454) in [open-telemetry/community](https://github.com/open-telemetry/community)
+4. 🗣 Commented on [#95](https://github.com/cncf/tag-env-sustainability/issues/95) in [cncf/tag-env-sustainability](https://github.com/cncf/tag-env-sustainability)
+5. 🎉 Merged PR [#2051](https://github.com/cncf/glossary/pull/2051) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
 
 
