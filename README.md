@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/krol3/bookstore-go/pull/1) in [krol3/bookstore-go](https://github.com/krol3/bookstore-go)
-2. 💪 Opened PR [#1](https://github.com/krol3/bookstore-go/pull/1) in [krol3/bookstore-go](https://github.com/krol3/bookstore-go)
-3. 🗣 Commented on [#1454](https://github.com/open-telemetry/community/issues/1454) in [open-telemetry/community](https://github.com/open-telemetry/community)
-4. 🗣 Commented on [#95](https://github.com/cncf/tag-env-sustainability/issues/95) in [cncf/tag-env-sustainability](https://github.com/cncf/tag-env-sustainability)
-5. 🎉 Merged PR [#2051](https://github.com/cncf/glossary/pull/2051) in [cncf/glossary](https://github.com/cncf/glossary)
+1. ❗ Opened issue [#498](https://github.com/cncf/kubernetes-community-days/issues/498) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
+2. 🗣 Commented on [#1893](https://github.com/cncf/glossary/issues/1893) in [cncf/glossary](https://github.com/cncf/glossary)
+3. ❗ Opened issue [#326](https://github.com/appvia/krane/issues/326) in [appvia/krane](https://github.com/appvia/krane)
+4. 🎉 Merged PR [#1](https://github.com/krol3/bookstore-go/pull/1) in [krol3/bookstore-go](https://github.com/krol3/bookstore-go)
+5. 💪 Opened PR [#1](https://github.com/krol3/bookstore-go/pull/1) in [krol3/bookstore-go](https://github.com/krol3/bookstore-go)
 <!--END_SECTION:activity-->
 
 
