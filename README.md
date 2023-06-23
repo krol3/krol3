@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#498](https://github.com/cncf/kubernetes-community-days/issues/498) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
-2. 🗣 Commented on [#1893](https://github.com/cncf/glossary/issues/1893) in [cncf/glossary](https://github.com/cncf/glossary)
-3. ❗ Opened issue [#326](https://github.com/appvia/krane/issues/326) in [appvia/krane](https://github.com/appvia/krane)
-4. 🎉 Merged PR [#1](https://github.com/krol3/bookstore-go/pull/1) in [krol3/bookstore-go](https://github.com/krol3/bookstore-go)
-5. 💪 Opened PR [#1](https://github.com/krol3/bookstore-go/pull/1) in [krol3/bookstore-go](https://github.com/krol3/bookstore-go)
+1. ❗ Opened issue [#70](https://github.com/cyberark/KubiScan/issues/70) in [cyberark/KubiScan](https://github.com/cyberark/KubiScan)
+2. ❗ Opened issue [#331](https://github.com/appvia/krane/issues/331) in [appvia/krane](https://github.com/appvia/krane)
+3. 🗣 Commented on [#1041](https://github.com/cncf/tag-security/issues/1041) in [cncf/tag-security](https://github.com/cncf/tag-security)
+4. 💪 Opened PR [#1](https://github.com/krol3/tag-security/pull/1) in [krol3/tag-security](https://github.com/krol3/tag-security)
+5. 🎉 Merged PR [#2015](https://github.com/cncf/glossary/pull/2015) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
 
 
