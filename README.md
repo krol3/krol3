@@ -100,11 +100,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#70](https://github.com/cyberark/KubiScan/issues/70) in [cyberark/KubiScan](https://github.com/cyberark/KubiScan)
-2. ❗ Opened issue [#331](https://github.com/appvia/krane/issues/331) in [appvia/krane](https://github.com/appvia/krane)
-3. 🗣 Commented on [#1041](https://github.com/cncf/tag-security/issues/1041) in [cncf/tag-security](https://github.com/cncf/tag-security)
-4. 💪 Opened PR [#1](https://github.com/krol3/tag-security/pull/1) in [krol3/tag-security](https://github.com/krol3/tag-security)
-5. 🎉 Merged PR [#2015](https://github.com/cncf/glossary/pull/2015) in [cncf/glossary](https://github.com/cncf/glossary)
+1. ❗ Opened issue [#339](https://github.com/appvia/krane/issues/339) in [appvia/krane](https://github.com/appvia/krane)
+2. 🗣 Commented on [#70](https://github.com/cyberark/KubiScan/issues/70) in [cyberark/KubiScan](https://github.com/cyberark/KubiScan)
+3. ❗ Opened issue [#1258](https://github.com/kubescape/kubescape/issues/1258) in [kubescape/kubescape](https://github.com/kubescape/kubescape)
+4. 🗣 Commented on [#70](https://github.com/cyberark/KubiScan/issues/70) in [cyberark/KubiScan](https://github.com/cyberark/KubiScan)
+5. ❗ Opened issue [#70](https://github.com/cyberark/KubiScan/issues/70) in [cyberark/KubiScan](https://github.com/cyberark/KubiScan)
 <!--END_SECTION:activity-->
 
 
