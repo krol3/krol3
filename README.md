@@ -10,19 +10,16 @@
   I'm <a href="https://www.linkedin.com/in/carolgv/" target="_blank">Carol Valencia!</a>
 </h1>
 <h3 align="center">
-A techie 🚀 living in Brazil 😺
+A techie 🚀 living in Brazil 🇧🇷 
 </h3>
 
 <h3 align="center">
+
+Glad to see you here! 
 <img src="./img/cat-run.gif" 
          alt="Waving hand animated gif"
          height="40"
          width="40" />
-Glad to see you here! 
-    <img src="https://visitor-badge.glitch.me/badge?page_id=krol3.krol3" 
-         alt="Waving hand animated gif"
-         height="30"
-         width="80" />
 </h3>
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" weight="40" height="40"></img> Connect with me 🙃
@@ -59,13 +56,15 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ### 😄 Talking about Personal Stuffs
-- 📚 I'm currently learning all about IT and Security in Cloud-native
-- 👯 I’m collaborating in the Kubernetes Project. Release Team 1.25 | 1.26 
+- 📚 I'm currently learning about Security in Cloud-native
+- ⚡ I'm honored to participate in the [CNCF Ambassadors](https://www.cncf.io/people/ambassadors/) and the [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/)
+- 👯 I’m collaborating in the [Kubernetes Release Team](https://github.com/kubernetes/sig-release/tree/master/release-team) 1.25 | 1.26 | 1.28
 - 🌱 Please ping me to talk about Security, Linux, containers, kubernetes and Supply chain.
 - 👯 I’m looking to collaborate with other developers in community
 - 💬 Ask me about: Container, kubernetes, security, supply chain
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ I love to play with new cli tools and technologies.
+- 📫 You can contact me through: [Twitter](https://twitter.com/krol_valencia) | [Linkedin](https://linkedin.com/in/carolgv) 
 
 ### 🧰 DevOps Tools
 <p align="left">
