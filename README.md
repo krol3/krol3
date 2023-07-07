@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#339](https://github.com/appvia/krane/issues/339) in [appvia/krane](https://github.com/appvia/krane)
-2. 🗣 Commented on [#70](https://github.com/cyberark/KubiScan/issues/70) in [cyberark/KubiScan](https://github.com/cyberark/KubiScan)
-3. ❗ Opened issue [#1258](https://github.com/kubescape/kubescape/issues/1258) in [kubescape/kubescape](https://github.com/kubescape/kubescape)
-4. 🗣 Commented on [#70](https://github.com/cyberark/KubiScan/issues/70) in [cyberark/KubiScan](https://github.com/cyberark/KubiScan)
-5. ❗ Opened issue [#70](https://github.com/cyberark/KubiScan/issues/70) in [cyberark/KubiScan](https://github.com/cyberark/KubiScan)
+1. 🗣 Commented on [#41702](https://github.com/kubernetes/website/issues/41702) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#39792](https://github.com/kubernetes/website/issues/39792) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 💪 Opened PR [#2196](https://github.com/cncf/glossary/pull/2196) in [cncf/glossary](https://github.com/cncf/glossary)
+4. ❗ Opened issue [#19](https://github.com/PaloAltoNetworks/rbac-police/issues/19) in [PaloAltoNetworks/rbac-police](https://github.com/PaloAltoNetworks/rbac-police)
+5. ❗ Opened issue [#339](https://github.com/appvia/krane/issues/339) in [appvia/krane](https://github.com/appvia/krane)
 <!--END_SECTION:activity-->
 
 
