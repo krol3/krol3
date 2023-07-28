@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1258](https://github.com/kubescape/kubescape/issues/1258#issuecomment-1627773384) in [kubescape/kubescape](https://github.com/kubescape/kubescape)
-2. 🗣 Commented on [#1258](https://github.com/kubescape/kubescape/issues/1258#issuecomment-1627773380) in [kubescape/kubescape](https://github.com/kubescape/kubescape)
-3. 🗣 Commented on [#2196](https://github.com/cncf/glossary/pull/2196#issuecomment-1627345540) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🗣 Commented on [#41702](https://github.com/kubernetes/website/pull/41702#issuecomment-1620447911) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#39792](https://github.com/kubernetes/website/issues/39792#issuecomment-1620442095) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#42060](https://github.com/kubernetes/website/pull/42060#issuecomment-1653983286) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#41885](https://github.com/kubernetes/website/pull/41885#issuecomment-1647890137) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#1258](https://github.com/kubescape/kubescape/issues/1258#issuecomment-1627773384) in [kubescape/kubescape](https://github.com/kubescape/kubescape)
+4. 🗣 Commented on [#1258](https://github.com/kubescape/kubescape/issues/1258#issuecomment-1627773380) in [kubescape/kubescape](https://github.com/kubescape/kubescape)
+5. 🗣 Commented on [#2196](https://github.com/cncf/glossary/pull/2196#issuecomment-1627345540) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
 
 
