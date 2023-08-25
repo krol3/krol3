@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#498](https://github.com/cncf/kubernetes-community-days/issues/498#issuecomment-1682788029) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
-2. 🗣 Commented on [#8640](https://github.com/EddieHubCommunity/LinkFree/issues/8640#issuecomment-1679788518) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 💪 Opened PR [#1](https://github.com/bradmccoydev/website/pull/1) in [bradmccoydev/website](https://github.com/bradmccoydev/website)
-4. 💪 Opened PR [#1](https://github.com/krol3/website/pull/1) in [krol3/website](https://github.com/krol3/website)
-5. 💪 Opened PR [#66](https://github.com/hoophq/docs/pull/66) in [hoophq/docs](https://github.com/hoophq/docs)
+1. 🗣 Commented on [#2323](https://github.com/kubernetes/sig-release/issues/2323#issuecomment-1690314401) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+2. ❗ Opened issue [#2323](https://github.com/kubernetes/sig-release/issues/2323) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+3. 🎉 Merged PR [#66](https://github.com/hoophq/docs/pull/66) in [hoophq/docs](https://github.com/hoophq/docs)
+4. 🗣 Commented on [#498](https://github.com/cncf/kubernetes-community-days/issues/498#issuecomment-1682788029) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
+5. 🗣 Commented on [#8640](https://github.com/EddieHubCommunity/LinkFree/issues/8640#issuecomment-1679788518) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 
