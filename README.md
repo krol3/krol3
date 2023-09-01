@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2323](https://github.com/kubernetes/sig-release/issues/2323#issuecomment-1690314401) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-2. ❗ Opened issue [#2323](https://github.com/kubernetes/sig-release/issues/2323) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-3. 🎉 Merged PR [#66](https://github.com/hoophq/docs/pull/66) in [hoophq/docs](https://github.com/hoophq/docs)
-4. 🗣 Commented on [#498](https://github.com/cncf/kubernetes-community-days/issues/498#issuecomment-1682788029) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
-5. 🗣 Commented on [#8640](https://github.com/EddieHubCommunity/LinkFree/issues/8640#issuecomment-1679788518) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🗣 Commented on [#2324](https://github.com/kubernetes/sig-release/issues/2324#issuecomment-1699414524) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+2. ❗ Opened issue [#2333](https://github.com/cncf/glossary/issues/2333) in [cncf/glossary](https://github.com/cncf/glossary)
+3. ❗ Opened issue [#42736](https://github.com/kubernetes/website/issues/42736) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🗣 Commented on [#2323](https://github.com/kubernetes/sig-release/issues/2323#issuecomment-1690314401) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+5. ❗ Opened issue [#2323](https://github.com/kubernetes/sig-release/issues/2323) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
 <!--END_SECTION:activity-->
 
 
