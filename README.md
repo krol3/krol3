@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2324](https://github.com/kubernetes/sig-release/issues/2324#issuecomment-1699414524) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-2. ❗ Opened issue [#2333](https://github.com/cncf/glossary/issues/2333) in [cncf/glossary](https://github.com/cncf/glossary)
-3. ❗ Opened issue [#42736](https://github.com/kubernetes/website/issues/42736) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#2323](https://github.com/kubernetes/sig-release/issues/2323#issuecomment-1690314401) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-5. ❗ Opened issue [#2323](https://github.com/kubernetes/sig-release/issues/2323) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+1. 🗣 Commented on [#4452](https://github.com/kubernetes/org/pull/4452#issuecomment-1717672662) in [kubernetes/org](https://github.com/kubernetes/org)
+2. ❗ Opened issue [#4457](https://github.com/kubernetes/org/issues/4457) in [kubernetes/org](https://github.com/kubernetes/org)
+3. ❗ Opened issue [#4456](https://github.com/kubernetes/org/issues/4456) in [kubernetes/org](https://github.com/kubernetes/org)
+4. 💪 Opened PR [#2385](https://github.com/cncf/glossary/pull/2385) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🗣 Commented on [#2324](https://github.com/kubernetes/sig-release/issues/2324#issuecomment-1699414524) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
 <!--END_SECTION:activity-->
 
 
