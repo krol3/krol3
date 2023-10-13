@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43298](https://github.com/kubernetes/website/pull/43298#issuecomment-1745264387) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#43298](https://github.com/kubernetes/website/pull/43298#issuecomment-1745261894) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#4004](https://github.com/kubernetes/enhancements/issues/4004#issuecomment-1743198223) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-4. 🎉 Merged PR [#9](https://github.com/krol3/container-security-checklist/pull/9) in [krol3/container-security-checklist](https://github.com/krol3/container-security-checklist)
-5. 🗣 Commented on [#2395](https://github.com/kubernetes/enhancements/issues/2395#issuecomment-1737279611) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+1. 💪 Opened PR [#43439](https://github.com/kubernetes/website/pull/43439) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#43298](https://github.com/kubernetes/website/pull/43298#issuecomment-1745264387) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#43298](https://github.com/kubernetes/website/pull/43298#issuecomment-1745261894) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🗣 Commented on [#4004](https://github.com/kubernetes/enhancements/issues/4004#issuecomment-1743198223) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+5. 🎉 Merged PR [#9](https://github.com/krol3/container-security-checklist/pull/9) in [krol3/container-security-checklist](https://github.com/krol3/container-security-checklist)
 <!--END_SECTION:activity-->
 
 
