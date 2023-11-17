@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/krol3/website/pull/1) in [krol3/website](https://github.com/krol3/website)
-2. 💪 Opened PR [#2355](https://github.com/kubernetes/sig-release/pull/2355) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-3. 💪 Opened PR [#43439](https://github.com/kubernetes/website/pull/43439) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#43298](https://github.com/kubernetes/website/pull/43298#issuecomment-1745264387) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#43298](https://github.com/kubernetes/website/pull/43298#issuecomment-1745261894) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#2395](https://github.com/kubernetes/enhancements/issues/2395#issuecomment-1814738071) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+2. 🗣 Commented on [#43579](https://github.com/kubernetes/website/pull/43579#issuecomment-1814564792) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#43571](https://github.com/kubernetes/website/pull/43571#issuecomment-1814548468) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🗣 Commented on [#43418](https://github.com/kubernetes/website/pull/43418#issuecomment-1813049792) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#43777](https://github.com/kubernetes/website/pull/43777#issuecomment-1813043806) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
 
