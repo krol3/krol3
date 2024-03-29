@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45367](https://github.com/kubernetes/website/pull/45367#issuecomment-1979224392) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 💪 Opened PR [#44404](https://github.com/kubernetes/website/pull/44404) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#43939](https://github.com/kubernetes/website/pull/43939#issuecomment-1849017856) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#43939](https://github.com/kubernetes/website/pull/43939#issuecomment-1848777627) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#43579](https://github.com/kubernetes/website/pull/43579#issuecomment-1841190491) in [kubernetes/website](https://github.com/kubernetes/website)
+1. ❌ Closed PR [#45712](https://github.com/kubernetes/website/pull/45712) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 💪 Opened PR [#45712](https://github.com/kubernetes/website/pull/45712) in [kubernetes/website](https://github.com/kubernetes/website)
+3. ❗ Opened issue [#45700](https://github.com/kubernetes/website/issues/45700) in [kubernetes/website](https://github.com/kubernetes/website)
+4. ❗ Opened issue [#45699](https://github.com/kubernetes/website/issues/45699) in [kubernetes/website](https://github.com/kubernetes/website)
+5. ❗ Opened issue [#45698](https://github.com/kubernetes/website/issues/45698) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
 
