@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#45712](https://github.com/kubernetes/website/pull/45712) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 💪 Opened PR [#45712](https://github.com/kubernetes/website/pull/45712) in [kubernetes/website](https://github.com/kubernetes/website)
-3. ❗ Opened issue [#45700](https://github.com/kubernetes/website/issues/45700) in [kubernetes/website](https://github.com/kubernetes/website)
-4. ❗ Opened issue [#45699](https://github.com/kubernetes/website/issues/45699) in [kubernetes/website](https://github.com/kubernetes/website)
-5. ❗ Opened issue [#45698](https://github.com/kubernetes/website/issues/45698) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#45700](https://github.com/kubernetes/website/issues/45700#issuecomment-2045852781) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#45698](https://github.com/kubernetes/website/issues/45698#issuecomment-2045851573) in [kubernetes/website](https://github.com/kubernetes/website)
+3. ❌ Closed PR [#45712](https://github.com/kubernetes/website/pull/45712) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 💪 Opened PR [#45712](https://github.com/kubernetes/website/pull/45712) in [kubernetes/website](https://github.com/kubernetes/website)
+5. ❗ Opened issue [#45700](https://github.com/kubernetes/website/issues/45700) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
 
