@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7854](https://github.com/kubernetes/community/issues/7854#issuecomment-2085928019) in [kubernetes/community](https://github.com/kubernetes/community)
-2. 🗣 Commented on [#290](https://github.com/cncf/tag-env-sustainability/issues/290#issuecomment-2060995315) in [cncf/tag-env-sustainability](https://github.com/cncf/tag-env-sustainability)
-3. 🗣 Commented on [#45708](https://github.com/kubernetes/website/issues/45708#issuecomment-2059457982) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#45700](https://github.com/kubernetes/website/issues/45700#issuecomment-2045852781) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#45698](https://github.com/kubernetes/website/issues/45698#issuecomment-2045851573) in [kubernetes/website](https://github.com/kubernetes/website)
+1. ❗ Opened issue [#53](https://github.com/cncf/communitygroups/issues/53) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+2. ❗ Opened issue [#52](https://github.com/cncf/communitygroups/issues/52) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+3. 🗣 Commented on [#7854](https://github.com/kubernetes/community/issues/7854#issuecomment-2085928019) in [kubernetes/community](https://github.com/kubernetes/community)
+4. 🗣 Commented on [#290](https://github.com/cncf/tag-env-sustainability/issues/290#issuecomment-2060995315) in [cncf/tag-env-sustainability](https://github.com/cncf/tag-env-sustainability)
+5. 🗣 Commented on [#45708](https://github.com/kubernetes/website/issues/45708#issuecomment-2059457982) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
 
