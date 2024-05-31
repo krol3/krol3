@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45693](https://github.com/kubernetes/website/pull/45693#issuecomment-2113065358) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#45836](https://github.com/kubernetes/website/pull/45836#issuecomment-2113059019) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#45836](https://github.com/kubernetes/website/pull/45836#issuecomment-2112969331) in [kubernetes/website](https://github.com/kubernetes/website)
-4. ❗ Opened issue [#53](https://github.com/cncf/communitygroups/issues/53) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
-5. ❗ Opened issue [#52](https://github.com/cncf/communitygroups/issues/52) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+1. 🗣 Commented on [#7559](https://github.com/kubernetes/community/pull/7559#issuecomment-2135667464) in [kubernetes/community](https://github.com/kubernetes/community)
+2. 🗣 Commented on [#7559](https://github.com/kubernetes/community/pull/7559#issuecomment-2135659476) in [kubernetes/community](https://github.com/kubernetes/community)
+3. 🗣 Commented on [#7559](https://github.com/kubernetes/community/pull/7559#issuecomment-2135655616) in [kubernetes/community](https://github.com/kubernetes/community)
+4. 🗣 Commented on [#7559](https://github.com/kubernetes/community/pull/7559#issuecomment-2135641594) in [kubernetes/community](https://github.com/kubernetes/community)
+5. 🗣 Commented on [#45629](https://github.com/kubernetes/website/pull/45629#issuecomment-2135589520) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
 
