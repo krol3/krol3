@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/cncf/communitygroups/issues/70#issuecomment-2148560685) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
-2. 🗣 Commented on [#53](https://github.com/cncf/communitygroups/issues/53#issuecomment-2146088772) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
-3. 🗣 Commented on [#53](https://github.com/cncf/communitygroups/issues/53#issuecomment-2146032994) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
-4. 🗣 Commented on [#4029](https://github.com/ossf/scorecard/issues/4029#issuecomment-2142534454) in [ossf/scorecard](https://github.com/ossf/scorecard)
-5. 🗣 Commented on [#7559](https://github.com/kubernetes/community/pull/7559#issuecomment-2135667464) in [kubernetes/community](https://github.com/kubernetes/community)
+1. 🗣 Commented on [#46474](https://github.com/kubernetes/website/pull/46474#issuecomment-2161097665) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#70](https://github.com/cncf/communitygroups/issues/70#issuecomment-2159006850) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+3. 🗣 Commented on [#70](https://github.com/cncf/communitygroups/issues/70#issuecomment-2148560685) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+4. 🗣 Commented on [#53](https://github.com/cncf/communitygroups/issues/53#issuecomment-2146088772) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+5. 🗣 Commented on [#53](https://github.com/cncf/communitygroups/issues/53#issuecomment-2146032994) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
 <!--END_SECTION:activity-->
 
 
