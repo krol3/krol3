@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3229](https://github.com/cncf/glossary/pull/3229) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 🗣 Commented on [#45756](https://github.com/kubernetes/website/issues/45756#issuecomment-2206787051) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#46474](https://github.com/kubernetes/website/pull/46474#issuecomment-2161097665) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#70](https://github.com/cncf/communitygroups/issues/70#issuecomment-2159006850) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
-5. 🗣 Commented on [#70](https://github.com/cncf/communitygroups/issues/70#issuecomment-2148560685) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+1. ❗ Opened issue [#4887](https://github.com/open-telemetry/opentelemetry.io/issues/4887) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+2. 🗣 Commented on [#558](https://github.com/cncf/kubernetes-community-days/issues/558#issuecomment-2243692409) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
+3. 🎉 Merged PR [#3229](https://github.com/cncf/glossary/pull/3229) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🗣 Commented on [#45756](https://github.com/kubernetes/website/issues/45756#issuecomment-2206787051) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#46474](https://github.com/kubernetes/website/pull/46474#issuecomment-2161097665) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
 
