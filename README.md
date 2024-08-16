@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2262](https://github.com/open-telemetry/community/issues/2262#issuecomment-2273818736) in [open-telemetry/community](https://github.com/open-telemetry/community)
-2. 🗣 Commented on [#4887](https://github.com/open-telemetry/opentelemetry.io/issues/4887#issuecomment-2273776199) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-3. 🗣 Commented on [#4887](https://github.com/open-telemetry/opentelemetry.io/issues/4887#issuecomment-2273760805) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-4. 🗣 Commented on [#4887](https://github.com/open-telemetry/opentelemetry.io/issues/4887#issuecomment-2272543143) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-5. ❗ Opened issue [#478](https://github.com/cncf/tag-env-sustainability/issues/478) in [cncf/tag-env-sustainability](https://github.com/cncf/tag-env-sustainability)
+1. 💪 Opened PR [#47447](https://github.com/kubernetes/website/pull/47447) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#47444](https://github.com/kubernetes/website/issues/47444#issuecomment-2282929054) in [kubernetes/website](https://github.com/kubernetes/website)
+3. ❗ Opened issue [#47444](https://github.com/kubernetes/website/issues/47444) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🗣 Commented on [#2262](https://github.com/open-telemetry/community/issues/2262#issuecomment-2273818736) in [open-telemetry/community](https://github.com/open-telemetry/community)
+5. 🗣 Commented on [#4887](https://github.com/open-telemetry/opentelemetry.io/issues/4887#issuecomment-2273776199) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 <!--END_SECTION:activity-->
 
 
