@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1041](https://github.com/cncf/tag-security/issues/1041#issuecomment-2329252628) in [cncf/tag-security](https://github.com/cncf/tag-security)
-2. 🗣 Commented on [#112](https://github.com/cncf/communitygroups/issues/112#issuecomment-2323009674) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
-3. 🗣 Commented on [#5057](https://github.com/open-telemetry/opentelemetry.io/pull/5057#issuecomment-2305834694) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-4. 🗣 Commented on [#5054](https://github.com/open-telemetry/opentelemetry.io/pull/5054#issuecomment-2305293143) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-5. 🗣 Commented on [#5055](https://github.com/open-telemetry/opentelemetry.io/pull/5055#issuecomment-2305291303) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+1. ❗ Opened issue [#2345](https://github.com/open-telemetry/community/issues/2345) in [open-telemetry/community](https://github.com/open-telemetry/community)
+2. 🗣 Commented on [#1041](https://github.com/cncf/tag-security/issues/1041#issuecomment-2329252628) in [cncf/tag-security](https://github.com/cncf/tag-security)
+3. 🗣 Commented on [#112](https://github.com/cncf/communitygroups/issues/112#issuecomment-2323009674) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+4. 🗣 Commented on [#5057](https://github.com/open-telemetry/opentelemetry.io/pull/5057#issuecomment-2305834694) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+5. 🗣 Commented on [#5054](https://github.com/open-telemetry/opentelemetry.io/pull/5054#issuecomment-2305293143) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 <!--END_SECTION:activity-->
 
 
