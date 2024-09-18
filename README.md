@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 
 ### :card_index: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Anonymous Authentication in Kubernetes - 2023](https://krolcloud.com/blog/anonymous-authentication-in-kubernetes/)
 - [Intro to Fileless Malware in Containers - 2022](https://blog.aquasec.com/intro-to-fileless-malware-in-containers)
 - [Kubernetes Version 1.25: An Overview - 2022](https://blog.aquasec.com/kubernetes-version-1.25)
 - [Security in KubeCon Europe - 2020](https://krol3.medium.com/security-in-kubecon-europe-2020-859f41beb948)
@@ -58,12 +59,13 @@ Here are some ideas to get you started:
 ### 😄 Talking about Personal Stuffs
 - 📚 I'm currently learning about Security in Cloud-native
 - ⚡ I'm honored to participate in the [CNCF Ambassadors](https://www.cncf.io/people/ambassadors/) and the [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/)
-- 👯 I’m collaborating in the [Kubernetes Release Team](https://github.com/kubernetes/sig-release/tree/master/release-team) 1.25 | 1.26 | 1.28
+- ✍🏾 I collaborated in the [Kubernetes Documentation](https://kubernetes.io/es/docs/home/), [CNCF Glossary](https://glossary.cncf.io/es/) and [OpenTelemetry](https://opentelemetry.io/es/)
+- 👯 I collaborated in the [Kubernetes Release Team](https://github.com/kubernetes/sig-release/tree/master/release-team) 1.25 | 1.26 | 1.28.
 - 🌱 Please ping me to talk about Security, Linux, containers, kubernetes and Supply chain.
-- 👯 I’m looking to collaborate with other developers in community
-- 💬 Ask me about: Container, kubernetes, security, supply chain
-- 🥅 Goals: Contribute more to Open Source projects
-- ⚡ I love to play with new cli tools and technologies.
+- 👯 I’m looking to collaborate with other developers in community.
+- 💬 Ask me about: Container, kubernetes, security, supply chain.
+- 🥅 Goals: Contribute to more Open Source projects.
+- ⚡ I love to explore new technologies.
 - 📫 You can contact me through: [Twitter](https://twitter.com/krol_valencia) | [Linkedin](https://linkedin.com/in/carolgv) 
 
 ### 🧰 DevOps Tools
