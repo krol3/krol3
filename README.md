@@ -101,11 +101,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5206](https://github.com/open-telemetry/opentelemetry.io/issues/5206) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-2. ❗ Opened issue [#5205](https://github.com/open-telemetry/opentelemetry.io/issues/5205) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-3. ❗ Opened issue [#2345](https://github.com/open-telemetry/community/issues/2345) in [open-telemetry/community](https://github.com/open-telemetry/community)
-4. 🗣 Commented on [#1041](https://github.com/cncf/tag-security/issues/1041#issuecomment-2329252628) in [cncf/tag-security](https://github.com/cncf/tag-security)
-5. 🗣 Commented on [#112](https://github.com/cncf/communitygroups/issues/112#issuecomment-2323009674) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+1. 🗣 Commented on [#44738](https://github.com/kubernetes/website/issues/44738#issuecomment-2375591141) in [kubernetes/website](https://github.com/kubernetes/website)
+2. ❗ Opened issue [#48092](https://github.com/kubernetes/website/issues/48092) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 💪 Opened PR [#5247](https://github.com/open-telemetry/opentelemetry.io/pull/5247) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+4. 💪 Opened PR [#5246](https://github.com/open-telemetry/opentelemetry.io/pull/5246) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+5. 💪 Opened PR [#48074](https://github.com/kubernetes/website/pull/48074) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
 
