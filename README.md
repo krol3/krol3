@@ -101,11 +101,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/elastic/opentelemetry-demo/issues/84#issuecomment-2389121529) in [elastic/opentelemetry-demo](https://github.com/elastic/opentelemetry-demo)
-2. 🗣 Commented on [#5229](https://github.com/open-telemetry/opentelemetry.io/issues/5229#issuecomment-2378367216) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-3. 🗣 Commented on [#44738](https://github.com/kubernetes/website/issues/44738#issuecomment-2375591141) in [kubernetes/website](https://github.com/kubernetes/website)
-4. ❗ Opened issue [#48092](https://github.com/kubernetes/website/issues/48092) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 💪 Opened PR [#5247](https://github.com/open-telemetry/opentelemetry.io/pull/5247) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+1. 🗣 Commented on [#5206](https://github.com/open-telemetry/opentelemetry.io/issues/5206#issuecomment-2393282785) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+2. 🗣 Commented on [#84](https://github.com/elastic/opentelemetry-demo/issues/84#issuecomment-2389121529) in [elastic/opentelemetry-demo](https://github.com/elastic/opentelemetry-demo)
+3. 🗣 Commented on [#5229](https://github.com/open-telemetry/opentelemetry.io/issues/5229#issuecomment-2378367216) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+4. 🗣 Commented on [#44738](https://github.com/kubernetes/website/issues/44738#issuecomment-2375591141) in [kubernetes/website](https://github.com/kubernetes/website)
+5. ❗ Opened issue [#48092](https://github.com/kubernetes/website/issues/48092) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
 
