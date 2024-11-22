@@ -101,11 +101,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#183](https://github.com/cncf/communitygroups/issues/183#issuecomment-2435354026) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
-2. 🗣 Commented on [#5206](https://github.com/open-telemetry/opentelemetry.io/issues/5206#issuecomment-2393282785) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-3. 🗣 Commented on [#84](https://github.com/elastic/opentelemetry-demo/issues/84#issuecomment-2389121529) in [elastic/opentelemetry-demo](https://github.com/elastic/opentelemetry-demo)
-4. 🗣 Commented on [#5229](https://github.com/open-telemetry/opentelemetry.io/issues/5229#issuecomment-2378367216) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-5. 🗣 Commented on [#44738](https://github.com/kubernetes/website/issues/44738#issuecomment-2375591141) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 💪 Opened PR [#5661](https://github.com/open-telemetry/opentelemetry.io/pull/5661) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+2. 🗣 Commented on [#1371](https://github.com/cncf/tag-security/issues/1371#issuecomment-2483468317) in [cncf/tag-security](https://github.com/cncf/tag-security)
+3. 💪 Opened PR [#743](https://github.com/cncf/tag-contributor-strategy/pull/743) in [cncf/tag-contributor-strategy](https://github.com/cncf/tag-contributor-strategy)
+4. 🗣 Commented on [#183](https://github.com/cncf/communitygroups/issues/183#issuecomment-2435354026) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+5. 🗣 Commented on [#5206](https://github.com/open-telemetry/opentelemetry.io/issues/5206#issuecomment-2393282785) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 <!--END_SECTION:activity-->
 
 
