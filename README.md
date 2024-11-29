@@ -101,11 +101,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5661](https://github.com/open-telemetry/opentelemetry.io/pull/5661) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-2. 🗣 Commented on [#1371](https://github.com/cncf/tag-security/issues/1371#issuecomment-2483468317) in [cncf/tag-security](https://github.com/cncf/tag-security)
-3. 💪 Opened PR [#743](https://github.com/cncf/tag-contributor-strategy/pull/743) in [cncf/tag-contributor-strategy](https://github.com/cncf/tag-contributor-strategy)
-4. 🗣 Commented on [#183](https://github.com/cncf/communitygroups/issues/183#issuecomment-2435354026) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
-5. 🗣 Commented on [#5206](https://github.com/open-telemetry/opentelemetry.io/issues/5206#issuecomment-2393282785) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+1. ❗ Opened issue [#211](https://github.com/cncf/communitygroups/issues/211) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+2. ❗ Opened issue [#210](https://github.com/cncf/communitygroups/issues/210) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+3. 🗣 Commented on [#2959](https://github.com/cncf/glossary/issues/2959#issuecomment-2493970926) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🔒 Closed issue [#2959](https://github.com/cncf/glossary/issues/2959) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🗣 Commented on [#2954](https://github.com/cncf/glossary/issues/2954#issuecomment-2493969339) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
 
 
