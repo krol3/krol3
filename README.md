@@ -101,8 +101,8 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#257](https://github.com/cncf/communitygroups/issues/257) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
-2. 💪 Opened PR [#5748](https://github.com/open-telemetry/opentelemetry.io/pull/5748) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+1. 🗣 Commented on [#613](https://github.com/cncf/kubernetes-community-days/issues/613#issuecomment-2623204647) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
+2. ❗ Opened issue [#257](https://github.com/cncf/communitygroups/issues/257) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
 3. 🗣 Commented on [#5644](https://github.com/open-telemetry/opentelemetry.io/pull/5644#issuecomment-2528981582) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 4. ❗ Opened issue [#211](https://github.com/cncf/communitygroups/issues/211) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
 5. ❗ Opened issue [#210](https://github.com/cncf/communitygroups/issues/210) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
