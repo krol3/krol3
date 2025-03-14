@@ -101,10 +101,10 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6485](https://github.com/open-telemetry/opentelemetry.io/pull/6485) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-2. 🗣 Commented on [#257](https://github.com/cncf/communitygroups/issues/257#issuecomment-2660013012) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
-3. 🗣 Commented on [#257](https://github.com/cncf/communitygroups/issues/257#issuecomment-2660004594) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
-4. ❗ Opened issue [#211](https://github.com/cncf/communitygroups/issues/211) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+1. 💪 Opened PR [#771](https://github.com/elastic/docs-content/pull/771) in [elastic/docs-content](https://github.com/elastic/docs-content)
+2. 💪 Opened PR [#6485](https://github.com/open-telemetry/opentelemetry.io/pull/6485) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+3. 🗣 Commented on [#257](https://github.com/cncf/communitygroups/issues/257#issuecomment-2660013012) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+4. 🗣 Commented on [#257](https://github.com/cncf/communitygroups/issues/257#issuecomment-2660004594) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
 5. ❗ Opened issue [#210](https://github.com/cncf/communitygroups/issues/210) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
 <!--END_SECTION:activity-->
 
