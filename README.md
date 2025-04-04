@@ -101,11 +101,11 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#299](https://github.com/cncf/communitygroups/issues/299#issuecomment-2757639932) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
-2. 💪 Opened PR [#771](https://github.com/elastic/docs-content/pull/771) in [elastic/docs-content](https://github.com/elastic/docs-content)
-3. 💪 Opened PR [#6485](https://github.com/open-telemetry/opentelemetry.io/pull/6485) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-4. 🗣 Commented on [#257](https://github.com/cncf/communitygroups/issues/257#issuecomment-2660004594) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
-5. ❗ Opened issue [#210](https://github.com/cncf/communitygroups/issues/210) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+1. 🗣 Commented on [#919](https://github.com/open-telemetry/opentelemetry-android/issues/919#issuecomment-2772963196) in [open-telemetry/opentelemetry-android](https://github.com/open-telemetry/opentelemetry-android)
+2. 🗣 Commented on [#50297](https://github.com/kubernetes/website/pull/50297#issuecomment-2763039061) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#299](https://github.com/cncf/communitygroups/issues/299#issuecomment-2757639932) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+4. 💪 Opened PR [#771](https://github.com/elastic/docs-content/pull/771) in [elastic/docs-content](https://github.com/elastic/docs-content)
+5. 💪 Opened PR [#6485](https://github.com/open-telemetry/opentelemetry.io/pull/6485) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 <!--END_SECTION:activity-->
 
 
