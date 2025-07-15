@@ -26,7 +26,20 @@ A techie 🚀 living in Brazil 🇧🇷
 - 💬 Ask me about: Container, kubernetes, security, supply chain.
 - 🥅 Goals: Contribute to more Open Source projects.
 - ⚡ I love to explore new technologies.
-- 📫 You can contact me through: [Twitter](https://twitter.com/krol_valencia) | [Linkedin](https://linkedin.com/in/carolgv) 
+- 🧑‍💻 Tech I work on :
+
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/golang/golang-vertical.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/amazon/amazon-ar21.svg" alt="aws" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/opensource/opensource-ar21.svg" alt="opensource" width="120" height="120"/>
+</p>
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" weight="40" height="40"></img> Connect with me 🙃
 <div align="center">
@@ -37,6 +50,8 @@ A techie 🚀 living in Brazil 🇧🇷
 <a href="https://dev.to/krol_valencia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="40" width="40" alt="Dev" /></a>
 <a href="https://open.spotify.com/user/krol3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" height="40" width="40" alt="Spotify"></a>
 </div>
+
+📫 You can contact me through: [Twitter](https://twitter.com/krol_valencia) | [Linkedin](https://linkedin.com/in/carolgv) 
 
 </br>
 
