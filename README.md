@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./img/write.gif" height="280dp" width="320dp">
-</p>
 <h1 align="center">
     Hi there, 
     <img src="./img/wave.gif" 
@@ -9,18 +6,27 @@
          width="45" />
   I'm <a href="https://www.linkedin.com/in/carolgv/" target="_blank">Carol Valencia!</a>
 </h1>
+
+<p align="center">
+  <img src="./img/write.gif" height="250dp" width="250dp">
+</p>
+
+
 <h3 align="center">
 A techie 🚀 living in Brazil 🇧🇷 
 </h3>
 
-<h3 align="center">
-
-Glad to see you here! 
-<img src="./img/cat-run.gif" 
-         alt="Waving hand animated gif"
-         height="40"
-         width="40" />
-</h3>
+### 😄 About me
+- 📚 I'm currently learning about Machine Learning
+- ⚡ I'm honored to participate in the [CNCF Ambassadors](https://www.cncf.io/people/ambassadors/) and the [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/)
+- ✍🏾 I collaborated in the [Kubernetes Documentation](https://kubernetes.io/es/docs/home/), [CNCF Glossary](https://glossary.cncf.io/es/) and [OpenTelemetry](https://opentelemetry.io/es/)
+- 👯 I collaborated in the [Kubernetes Release Team](https://github.com/kubernetes/sig-release/tree/master/release-team) 1.25 | 1.26 | 1.28 | 1.29
+- 🌱 Please ping me to talk about Containers, Cloud, Observability, Kubernetes and Security.
+- 👯 I’m looking to collaborate with other developers in community.
+- 💬 Ask me about: Container, kubernetes, security, supply chain.
+- 🥅 Goals: Contribute to more Open Source projects.
+- ⚡ I love to explore new technologies.
+- 📫 You can contact me through: [Twitter](https://twitter.com/krol_valencia) | [Linkedin](https://linkedin.com/in/carolgv) 
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" weight="40" height="40"></img> Connect with me 🙃
 <div align="center">
@@ -32,21 +38,15 @@ Glad to see you here!
 <a href="https://open.spotify.com/user/krol3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" height="40" width="40" alt="Spotify"></a>
 </div>
 
-<!--
-**krol3/krol3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about .... Beside programming, I like running, beach-tennis, traveling and cats
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 </br>
+
+<h3 align="center">
+Glad to see you here! 
+<img src="./img/cat-run.gif" 
+         alt="Waving hand animated gif"
+         height="40"
+         width="40" />
+</h3>
 
 ### :card_index: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -56,17 +56,6 @@ Here are some ideas to get you started:
 - [Security in KubeCon Europe - 2020](https://krol3.medium.com/security-in-kubecon-europe-2020-859f41beb948)
 <!-- BLOG-POST-LIST:END -->
 
-### 😄 Talking about Personal Stuffs
-- 📚 I'm currently learning about Security in Cloud-native
-- ⚡ I'm honored to participate in the [CNCF Ambassadors](https://www.cncf.io/people/ambassadors/) and the [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/)
-- ✍🏾 I collaborated in the [Kubernetes Documentation](https://kubernetes.io/es/docs/home/), [CNCF Glossary](https://glossary.cncf.io/es/) and [OpenTelemetry](https://opentelemetry.io/es/)
-- 👯 I collaborated in the [Kubernetes Release Team](https://github.com/kubernetes/sig-release/tree/master/release-team) 1.25 | 1.26 | 1.28.
-- 🌱 Please ping me to talk about Security, Linux, containers, kubernetes and Supply chain.
-- 👯 I’m looking to collaborate with other developers in community.
-- 💬 Ask me about: Container, kubernetes, security, supply chain.
-- 🥅 Goals: Contribute to more Open Source projects.
-- ⚡ I love to explore new technologies.
-- 📫 You can contact me through: [Twitter](https://twitter.com/krol_valencia) | [Linkedin](https://linkedin.com/in/carolgv) 
 
 ### 🧰 DevOps Tools
 <p align="left">
