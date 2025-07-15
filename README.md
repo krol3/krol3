@@ -51,8 +51,6 @@ A techie 🚀 living in Brazil 🇧🇷
 <a href="https://open.spotify.com/user/krol3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" height="40" width="40" alt="Spotify"></a>
 </div>
 
-📫 You can contact me through: [Twitter](https://twitter.com/krol_valencia) | [Linkedin](https://linkedin.com/in/carolgv) 
-
 </br>
 
 <h3 align="center">
@@ -86,13 +84,7 @@ Glad to see you here!
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" alt="ansible" width="90" height="90"/>
 </p>
 
-### 👩‍💻 Languages
-<p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" width="90" height="90"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" width="90" height="90"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="90" height="90"/> 
-<img src="https://camo.githubusercontent.com/aee47673482ae9337b1a495f7e747d35e55f4a3081e5cd65768e65686f6f2de4/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e706f6c6963796167656e742f6f70656e706f6c6963796167656e742d617232312e737667" alt="opa" width="100" height="100"/> 
-</p>
+### 🧰 Github Metrics
 
 ![Metrics](https://github.com/krol3/krol3/blob/master/github-metrics.svg)
 
@@ -112,6 +104,7 @@ Glad to see you here!
 5. 💪 Opened PR [#6485](https://github.com/open-telemetry/opentelemetry.io/pull/6485) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 <!--END_SECTION:activity-->
 
+### 📫 You can contact me through [Linkedin](https://linkedin.com/in/carolgv) 
 
 <div align="center">
     
