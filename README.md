@@ -97,7 +97,7 @@ Glad to see you here!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#919](https://github.com/open-telemetry/opentelemetry-android/issues/919#issuecomment-2772963196) in [open-telemetry/opentelemetry-android](https://github.com/open-telemetry/opentelemetry-android)
+1. 🗣 Commented on [#1664](https://github.com/cncf/toc/issues/1664#issuecomment-3067838374) in [cncf/toc](https://github.com/cncf/toc)
 2. 🗣 Commented on [#50297](https://github.com/kubernetes/website/pull/50297#issuecomment-2763039061) in [kubernetes/website](https://github.com/kubernetes/website)
 3. 🗣 Commented on [#299](https://github.com/cncf/communitygroups/issues/299#issuecomment-2757639932) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
 4. 💪 Opened PR [#771](https://github.com/elastic/docs-content/pull/771) in [elastic/docs-content](https://github.com/elastic/docs-content)
