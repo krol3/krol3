@@ -97,11 +97,11 @@ Glad to see you here!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1371](https://github.com/cncf/tag-security/issues/1371#issuecomment-3094676634) in [cncf/tag-security](https://github.com/cncf/tag-security)
-2. 🗣 Commented on [#1664](https://github.com/cncf/toc/issues/1664#issuecomment-3067838374) in [cncf/toc](https://github.com/cncf/toc)
-3. 🗣 Commented on [#299](https://github.com/cncf/communitygroups/issues/299#issuecomment-2757639932) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
-4. 💪 Opened PR [#771](https://github.com/elastic/docs-content/pull/771) in [elastic/docs-content](https://github.com/elastic/docs-content)
-5. 💪 Opened PR [#6485](https://github.com/open-telemetry/opentelemetry.io/pull/6485) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+1. 💪 Opened PR [#7490](https://github.com/open-telemetry/opentelemetry.io/pull/7490) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+2. ❗ Opened issue [#7488](https://github.com/open-telemetry/opentelemetry.io/issues/7488) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+3. 🗣 Commented on [#5229](https://github.com/open-telemetry/opentelemetry.io/issues/5229#issuecomment-3160994606) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+4. 🗣 Commented on [#1371](https://github.com/cncf/tag-security/issues/1371#issuecomment-3094676634) in [cncf/tag-security](https://github.com/cncf/tag-security)
+5. 🗣 Commented on [#1664](https://github.com/cncf/toc/issues/1664#issuecomment-3067838374) in [cncf/toc](https://github.com/cncf/toc)
 <!--END_SECTION:activity-->
 
 ### 📫 You can contact me through [Linkedin](https://linkedin.com/in/carolgv) 
