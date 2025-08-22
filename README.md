@@ -97,11 +97,11 @@ Glad to see you here!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7556](https://github.com/open-telemetry/opentelemetry.io/pull/7556) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-2. 💪 Opened PR [#7554](https://github.com/open-telemetry/opentelemetry.io/pull/7554) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-3. 🗣 Commented on [#7488](https://github.com/open-telemetry/opentelemetry.io/issues/7488#issuecomment-3180757535) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-4. 💪 Opened PR [#7536](https://github.com/open-telemetry/opentelemetry.io/pull/7536) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-5. ❗ Opened issue [#7535](https://github.com/open-telemetry/opentelemetry.io/issues/7535) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+1. 💪 Opened PR [#7578](https://github.com/open-telemetry/opentelemetry.io/pull/7578) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+2. 💪 Opened PR [#151](https://github.com/cncf/memorials/pull/151) in [cncf/memorials](https://github.com/cncf/memorials)
+3. 💪 Opened PR [#7556](https://github.com/open-telemetry/opentelemetry.io/pull/7556) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+4. 💪 Opened PR [#7554](https://github.com/open-telemetry/opentelemetry.io/pull/7554) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+5. 🗣 Commented on [#7488](https://github.com/open-telemetry/opentelemetry.io/issues/7488#issuecomment-3180757535) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 <!--END_SECTION:activity-->
 
 ### 📫 You can contact me through [Linkedin](https://linkedin.com/in/carolgv) 
