@@ -97,10 +97,10 @@ Glad to see you here!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5205](https://github.com/open-telemetry/opentelemetry.io/issues/5205#issuecomment-3271338989) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-2. 🔒 Closed issue [#5205](https://github.com/open-telemetry/opentelemetry.io/issues/5205) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-3. 🗣 Commented on [#7590](https://github.com/open-telemetry/opentelemetry.io/pull/7590#issuecomment-3211636346) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-4. 💪 Opened PR [#7578](https://github.com/open-telemetry/opentelemetry.io/pull/7578) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+1. 🎉 Merged PR [#8](https://github.com/krol3/container-security-checklist/pull/8) in [krol3/container-security-checklist](https://github.com/krol3/container-security-checklist)
+2. 🗣 Commented on [#5205](https://github.com/open-telemetry/opentelemetry.io/issues/5205#issuecomment-3271338989) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+3. 🔒 Closed issue [#5205](https://github.com/open-telemetry/opentelemetry.io/issues/5205) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+4. 🗣 Commented on [#7590](https://github.com/open-telemetry/opentelemetry.io/pull/7590#issuecomment-3211636346) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 5. 💪 Opened PR [#151](https://github.com/cncf/memorials/pull/151) in [cncf/memorials](https://github.com/cncf/memorials)
 <!--END_SECTION:activity-->
 
