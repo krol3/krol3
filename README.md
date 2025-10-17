@@ -97,11 +97,11 @@ Glad to see you here!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3037](https://github.com/open-telemetry/community/pull/3037#issuecomment-3358650164) in [open-telemetry/community](https://github.com/open-telemetry/community)
-2. 🗣 Commented on [#5206](https://github.com/open-telemetry/opentelemetry.io/issues/5206#issuecomment-3329917920) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-3. ❗ Opened issue [#7841](https://github.com/open-telemetry/opentelemetry.io/issues/7841) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-4. 💪 Opened PR [#7840](https://github.com/open-telemetry/opentelemetry.io/pull/7840) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-5. 🎉 Merged PR [#8](https://github.com/krol3/container-security-checklist/pull/8) in [krol3/container-security-checklist](https://github.com/krol3/container-security-checklist)
+1. 🗣 Commented on [#1915](https://github.com/cncf/toc/issues/1915#issuecomment-3386230009) in [cncf/toc](https://github.com/cncf/toc)
+2. 🗣 Commented on [#7976](https://github.com/open-telemetry/opentelemetry.io/pull/7976#issuecomment-3377515964) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+3. 🗣 Commented on [#7976](https://github.com/open-telemetry/opentelemetry.io/pull/7976#issuecomment-3377281055) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+4. 🗣 Commented on [#3037](https://github.com/open-telemetry/community/pull/3037#issuecomment-3358650164) in [open-telemetry/community](https://github.com/open-telemetry/community)
+5. 🗣 Commented on [#5206](https://github.com/open-telemetry/opentelemetry.io/issues/5206#issuecomment-3329917920) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 <!--END_SECTION:activity-->
 
 ### 📫 You can contact me through [Linkedin](https://linkedin.com/in/carolgv) 
