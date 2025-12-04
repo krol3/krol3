@@ -17,8 +17,9 @@ A techie 🚀 living in Brazil 🇧🇷
 </h3>
 
 ### 😄 About me
-- 📚 I'm currently learning about Machine Learning
-- ⚡ I'm honored to participate in the [CNCF Ambassadors](https://www.cncf.io/people/ambassadors/) and the [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/)
+- 📚 I'm currently learning about AI and cloud native.
+- 🙌 Truly honored to [step into the role of 2025 Tech Lead](https://github.com/cncf/toc/issues/1664#issuecomment-3103603328) for [CNCF TAG Operational Resilience](https://github.com/cncf/toc/tree/main/tags/tag-operational-resilience).
+- 🌟 Honored to be selected as [CNCF Ambassadors since 2024](https://www.cncf.io/people/ambassadors/) and the [AWS Community Builders since 2024](https://aws.amazon.com/developer/community/community-builders/)
 - ✍🏾 I collaborated in the [Kubernetes Documentation](https://kubernetes.io/es/docs/home/), [CNCF Glossary](https://glossary.cncf.io/es/) and [OpenTelemetry](https://opentelemetry.io/es/)
 - 👯 I collaborated in the [Kubernetes Release Team](https://github.com/kubernetes/sig-release/tree/master/release-team) 1.25 | 1.26 | 1.28 | 1.29
 - 🌱 Please ping me to talk about Containers, Cloud, Observability, Kubernetes and Security.
@@ -41,7 +42,12 @@ A techie 🚀 living in Brazil 🇧🇷
       <img src="https://www.vectorlogo.zone/logos/opensource/opensource-ar21.svg" alt="opensource" width="120" height="120"/>
 </p>
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" weight="40" height="40"></img> Connect with me 🙃
+###  👋📫 Come say hi on [Linkedin](https://linkedin.com/in/carolgv) 
+
+###  ☎️  <img src="./img/cat-run.gif"     alt="Waving hand animated gif" height="40" width="40" /> Let’s set up a call, a virtual coffee, to talk more about cloud and life in [Krol Calendar](https://calendar.app.google/PJKvJk6Cxhuxxsmt8)  ☕️💬🌥️
+
+
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" weight="40" height="40"></img> Feel free to connect with me on my other social networks 🙃 🙃
 <div align="center">
 <a href="https://linkedin.com/in/carolgv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" alt="Linkedin" /></a>
 <a href="https://twitter.com/krol_valencia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" alt="Twitter" /></a>
@@ -52,14 +58,6 @@ A techie 🚀 living in Brazil 🇧🇷
 </div>
 
 </br>
-
-<h3 align="center">
-Glad to see you here! 
-<img src="./img/cat-run.gif" 
-         alt="Waving hand animated gif"
-         height="40"
-         width="40" />
-</h3>
 
 ### :card_index: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -104,17 +102,5 @@ Glad to see you here!
 5. 🗣 Commented on [#5206](https://github.com/open-telemetry/opentelemetry.io/issues/5206#issuecomment-3329917920) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 <!--END_SECTION:activity-->
 
-### 📫 You can contact me through [Linkedin](https://linkedin.com/in/carolgv) 
 
-<div align="center">
-    
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/krol3/krol3/issues/new"><b>here</b></a><br>
-or <a href="https://www.linkedin.com/in/carolgv/"><b>linkedin</b></a>  <br>
-or Let's have a call ☎️, feel free to pick a slot on <a href="https://calendly.com/krol/30min">Calendly</a> to talk with me...
-
-<i>Happy Coding!</i> 😺
-
-</div>
 
