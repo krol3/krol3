@@ -95,7 +95,7 @@ A techie 🚀 living in Brazil 🇧🇷
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1915](https://github.com/cncf/toc/issues/1915#issuecomment-3386230009) in [cncf/toc](https://github.com/cncf/toc)
+1. 🗣 Commented on [#7516](https://github.com/open-telemetry/opentelemetry.io/issues/7516#issuecomment-3602820736) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 2. 🗣 Commented on [#7976](https://github.com/open-telemetry/opentelemetry.io/pull/7976#issuecomment-3377515964) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 3. 🗣 Commented on [#7976](https://github.com/open-telemetry/opentelemetry.io/pull/7976#issuecomment-3377281055) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 4. 🗣 Commented on [#3037](https://github.com/open-telemetry/community/pull/3037#issuecomment-3358650164) in [open-telemetry/community](https://github.com/open-telemetry/community)
