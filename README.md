@@ -18,7 +18,7 @@ A techie 🚀 living in Brazil 🇧🇷
 
 ### 😄 About me
 - 📚 I'm currently learning about AI and cloud native.
-- 🙌 Truly honored to [step into the role of 2025 Tech Lead](https://github.com/cncf/toc/issues/1664#issuecomment-3103603328) for [CNCF TAG Operational Resilience](https://github.com/cncf/toc/tree/main/tags/tag-operational-resilience).
+- 🙌 Truly honored to [step into the role of 2025 Tech Lead](https://github.com/cncf/toc/issues/1664#issuecomment-3103603328) for [CNCF TAG Operational Resilience](https://contribute.cncf.io/community/tags/operational-resilience/).
 - 🌟 Honored to be selected as [CNCF Ambassadors since 2024](https://www.cncf.io/people/ambassadors/) and the [AWS Community Builders since 2024](https://aws.amazon.com/developer/community/community-builders/)
 - ✍🏾 I collaborated in the [Kubernetes Documentation](https://kubernetes.io/es/docs/home/), [CNCF Glossary](https://glossary.cncf.io/es/) and [OpenTelemetry](https://opentelemetry.io/es/)
 - 👯 I collaborated in the [Kubernetes Release Team](https://github.com/kubernetes/sig-release/tree/master/release-team) 1.25 | 1.26 | 1.28 | 1.29
