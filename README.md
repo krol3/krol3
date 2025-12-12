@@ -95,8 +95,8 @@ A techie 🚀 living in Brazil 🇧🇷
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7516](https://github.com/open-telemetry/opentelemetry.io/issues/7516#issuecomment-3602820736) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-2. 🗣 Commented on [#7976](https://github.com/open-telemetry/opentelemetry.io/pull/7976#issuecomment-3377515964) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+1. ❗ Opened issue [#579](https://github.com/cncf/communitygroups/issues/579) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+2. 🗣 Commented on [#7516](https://github.com/open-telemetry/opentelemetry.io/issues/7516#issuecomment-3602820736) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 3. 🗣 Commented on [#7976](https://github.com/open-telemetry/opentelemetry.io/pull/7976#issuecomment-3377281055) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
 4. 🗣 Commented on [#3037](https://github.com/open-telemetry/community/pull/3037#issuecomment-3358650164) in [open-telemetry/community](https://github.com/open-telemetry/community)
 5. 🗣 Commented on [#5206](https://github.com/open-telemetry/opentelemetry.io/issues/5206#issuecomment-3329917920) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
