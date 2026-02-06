@@ -95,11 +95,11 @@ A techie 🚀 living in Brazil 🇧🇷
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1779](https://github.com/cncf/toc/issues/1779) in [cncf/toc](https://github.com/cncf/toc)
-2. 🗣 Commented on [#1779](https://github.com/cncf/toc/issues/1779#issuecomment-3818790907) in [cncf/toc](https://github.com/cncf/toc)
-3. 🗣 Commented on [#7976](https://github.com/open-telemetry/opentelemetry.io/pull/7976#issuecomment-3377281055) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
-4. 🗣 Commented on [#3037](https://github.com/open-telemetry/community/pull/3037#issuecomment-3358650164) in [open-telemetry/community](https://github.com/open-telemetry/community)
-5. 🗣 Commented on [#5206](https://github.com/open-telemetry/opentelemetry.io/issues/5206#issuecomment-3329917920) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+1. ℹ️ Labeled issue [#1984](https://github.com/cncf/toc/issues/1984) in [cncf/toc](https://github.com/cncf/toc)
+2. ℹ️ Labeled issue [#1849](https://github.com/cncf/toc/issues/1849) in [cncf/toc](https://github.com/cncf/toc)
+3. 🗣 Commented on [#1984](https://github.com/cncf/toc/issues/1984#issuecomment-3848397704) in [cncf/toc](https://github.com/cncf/toc)
+4. ℹ️ Labeled issue [#1984](https://github.com/cncf/toc/issues/1984) in [cncf/toc](https://github.com/cncf/toc)
+5. ℹ️ Labeled issue [#1984](https://github.com/cncf/toc/issues/1984) in [cncf/toc](https://github.com/cncf/toc)
 <!--END_SECTION:activity-->
 
 
