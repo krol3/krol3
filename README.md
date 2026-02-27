@@ -95,10 +95,10 @@ A techie 🚀 living in Brazil 🇧🇷
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1984](https://github.com/cncf/toc/issues/1984) in [cncf/toc](https://github.com/cncf/toc)
-2. ℹ️ Labeled issue [#1849](https://github.com/cncf/toc/issues/1849) in [cncf/toc](https://github.com/cncf/toc)
-3. 🗣 Commented on [#1984](https://github.com/cncf/toc/issues/1984#issuecomment-3848397704) in [cncf/toc](https://github.com/cncf/toc)
-4. ℹ️ Labeled issue [#1984](https://github.com/cncf/toc/issues/1984) in [cncf/toc](https://github.com/cncf/toc)
+1. ❗ Opened issue [#643](https://github.com/cncf/communitygroups/issues/643) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+2. ℹ️ Labeled issue [#1984](https://github.com/cncf/toc/issues/1984) in [cncf/toc](https://github.com/cncf/toc)
+3. ℹ️ Labeled issue [#1849](https://github.com/cncf/toc/issues/1849) in [cncf/toc](https://github.com/cncf/toc)
+4. 🗣 Commented on [#1984](https://github.com/cncf/toc/issues/1984#issuecomment-3848397704) in [cncf/toc](https://github.com/cncf/toc)
 5. ℹ️ Labeled issue [#1984](https://github.com/cncf/toc/issues/1984) in [cncf/toc](https://github.com/cncf/toc)
 <!--END_SECTION:activity-->
 
