@@ -95,11 +95,11 @@ A techie 🚀 living in Brazil 🇧🇷
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#643](https://github.com/cncf/communitygroups/issues/643) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
-2. ℹ️ Labeled issue [#1984](https://github.com/cncf/toc/issues/1984) in [cncf/toc](https://github.com/cncf/toc)
-3. ℹ️ Labeled issue [#1849](https://github.com/cncf/toc/issues/1849) in [cncf/toc](https://github.com/cncf/toc)
-4. 🗣 Commented on [#1984](https://github.com/cncf/toc/issues/1984#issuecomment-3848397704) in [cncf/toc](https://github.com/cncf/toc)
-5. ℹ️ Labeled issue [#1984](https://github.com/cncf/toc/issues/1984) in [cncf/toc](https://github.com/cncf/toc)
+1. 🗣 Commented on [#672](https://github.com/cncf/kubernetes-community-days/issues/672#issuecomment-3980330219) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
+2. 🗣 Commented on [#1779](https://github.com/cncf/toc/issues/1779#issuecomment-3973981901) in [cncf/toc](https://github.com/cncf/toc)
+3. 🗣 Commented on [#52934](https://github.com/kubernetes/website/pull/52934#issuecomment-3973731606) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 🗣 Commented on [#54457](https://github.com/kubernetes/website/pull/54457#issuecomment-3973710983) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#48070](https://github.com/kubernetes/website/issues/48070#issuecomment-3973693297) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
 
