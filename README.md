@@ -95,11 +95,11 @@ A techie 🚀 living in Brazil 🇧🇷
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3321](https://github.com/open-telemetry/community/pull/3321#issuecomment-4032348889) in [open-telemetry/community](https://github.com/open-telemetry/community)
-2. 🗣 Commented on [#672](https://github.com/cncf/kubernetes-community-days/issues/672#issuecomment-3980330219) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
-3. 🗣 Commented on [#1779](https://github.com/cncf/toc/issues/1779#issuecomment-3973981901) in [cncf/toc](https://github.com/cncf/toc)
-4. 🗣 Commented on [#52934](https://github.com/kubernetes/website/pull/52934#issuecomment-3973731606) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#54457](https://github.com/kubernetes/website/pull/54457#issuecomment-3973710983) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 💪 Opened PR [#2099](https://github.com/cncf/toc/pull/2099) in [cncf/toc](https://github.com/cncf/toc)
+2. 🗣 Commented on [#3321](https://github.com/open-telemetry/community/pull/3321#issuecomment-4032348889) in [open-telemetry/community](https://github.com/open-telemetry/community)
+3. 🗣 Commented on [#672](https://github.com/cncf/kubernetes-community-days/issues/672#issuecomment-3980330219) in [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days)
+4. 🗣 Commented on [#1779](https://github.com/cncf/toc/issues/1779#issuecomment-3973981901) in [cncf/toc](https://github.com/cncf/toc)
+5. 🗣 Commented on [#52934](https://github.com/kubernetes/website/pull/52934#issuecomment-3973731606) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
 
