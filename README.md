@@ -95,10 +95,10 @@ A techie 🚀 living in Brazil 🇧🇷
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2037](https://github.com/cncf/toc/issues/2037#issuecomment-4184936895) in [cncf/toc](https://github.com/cncf/toc)
-2. 🗣 Commented on [#2026](https://github.com/cncf/toc/issues/2026#issuecomment-4184925353) in [cncf/toc](https://github.com/cncf/toc)
-3. 💪 Opened PR [#2099](https://github.com/cncf/toc/pull/2099) in [cncf/toc](https://github.com/cncf/toc)
-4. 🗣 Commented on [#1779](https://github.com/cncf/toc/issues/1779#issuecomment-3973981901) in [cncf/toc](https://github.com/cncf/toc)
+1. 🗣 Commented on [#152](https://github.com/kubernetes/sig-security/issues/152#issuecomment-4269239319) in [kubernetes/sig-security](https://github.com/kubernetes/sig-security)
+2. 🔒 Closed issue [#152](https://github.com/kubernetes/sig-security/issues/152) in [kubernetes/sig-security](https://github.com/kubernetes/sig-security)
+3. 🗣 Commented on [#2037](https://github.com/cncf/toc/issues/2037#issuecomment-4184936895) in [cncf/toc](https://github.com/cncf/toc)
+4. 🗣 Commented on [#2026](https://github.com/cncf/toc/issues/2026#issuecomment-4184925353) in [cncf/toc](https://github.com/cncf/toc)
 5. 🗣 Commented on [#52934](https://github.com/kubernetes/website/pull/52934#issuecomment-3973731606) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
