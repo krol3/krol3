@@ -95,9 +95,9 @@ A techie 🚀 living in Brazil 🇧🇷
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/kubernetes/sig-security/issues/152#issuecomment-4269239319) in [kubernetes/sig-security](https://github.com/kubernetes/sig-security)
-2. 🔒 Closed issue [#152](https://github.com/kubernetes/sig-security/issues/152) in [kubernetes/sig-security](https://github.com/kubernetes/sig-security)
-3. 🗣 Commented on [#2037](https://github.com/cncf/toc/issues/2037#issuecomment-4184936895) in [cncf/toc](https://github.com/cncf/toc)
+1. ❗ Opened issue [#721](https://github.com/cncf/communitygroups/issues/721) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
+2. 🗣 Commented on [#152](https://github.com/kubernetes/sig-security/issues/152#issuecomment-4269239319) in [kubernetes/sig-security](https://github.com/kubernetes/sig-security)
+3. 🔒 Closed issue [#152](https://github.com/kubernetes/sig-security/issues/152) in [kubernetes/sig-security](https://github.com/kubernetes/sig-security)
 4. 🗣 Commented on [#2026](https://github.com/cncf/toc/issues/2026#issuecomment-4184925353) in [cncf/toc](https://github.com/cncf/toc)
 5. 🗣 Commented on [#52934](https://github.com/kubernetes/website/pull/52934#issuecomment-3973731606) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
