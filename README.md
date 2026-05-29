@@ -95,10 +95,10 @@ A techie 🚀 living in Brazil 🇧🇷
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#721](https://github.com/cncf/communitygroups/issues/721) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
-2. 🗣 Commented on [#152](https://github.com/kubernetes/sig-security/issues/152#issuecomment-4269239319) in [kubernetes/sig-security](https://github.com/kubernetes/sig-security)
-3. 🔒 Closed issue [#152](https://github.com/kubernetes/sig-security/issues/152) in [kubernetes/sig-security](https://github.com/kubernetes/sig-security)
-4. 🗣 Commented on [#2026](https://github.com/cncf/toc/issues/2026#issuecomment-4184925353) in [cncf/toc](https://github.com/cncf/toc)
+1. 🗣 Commented on [#2035](https://github.com/cncf/toc/issues/2035#issuecomment-4539083258) in [cncf/toc](https://github.com/cncf/toc)
+2. 🗣 Commented on [#9973](https://github.com/open-telemetry/opentelemetry.io/pull/9973#issuecomment-4538830838) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
+3. 🗣 Commented on [#2156](https://github.com/cncf/toc/issues/2156#issuecomment-4538020770) in [cncf/toc](https://github.com/cncf/toc)
+4. ❗ Opened issue [#721](https://github.com/cncf/communitygroups/issues/721) in [cncf/communitygroups](https://github.com/cncf/communitygroups)
 5. 🗣 Commented on [#52934](https://github.com/kubernetes/website/pull/52934#issuecomment-3973731606) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
