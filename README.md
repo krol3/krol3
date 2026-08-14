@@ -95,8 +95,8 @@ A techie 🚀 living in Brazil 🇧🇷
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1697](https://github.com/cncf/people/pull/1697) in [cncf/people](https://github.com/cncf/people)
-2. 🗣 Commented on [#2178](https://github.com/cncf/toc/issues/2178#issuecomment-4673422776) in [cncf/toc](https://github.com/cncf/toc)
+1. 🗣 Commented on [#2186](https://github.com/cncf/toc/issues/2186#issuecomment-5223767725) in [cncf/toc](https://github.com/cncf/toc)
+2. 🗣 Commented on [#840](https://github.com/kubernetes/contributor-site/issues/840#issuecomment-5218805324) in [kubernetes/contributor-site](https://github.com/kubernetes/contributor-site)
 3. 🗣 Commented on [#2037](https://github.com/cncf/toc/issues/2037#issuecomment-4672125044) in [cncf/toc](https://github.com/cncf/toc)
 4. 🗣 Commented on [#1849](https://github.com/cncf/toc/issues/1849#issuecomment-4604249910) in [cncf/toc](https://github.com/cncf/toc)
 5. 🗣 Commented on [#9973](https://github.com/open-telemetry/opentelemetry.io/pull/9973#issuecomment-4538830838) in [open-telemetry/opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io)
